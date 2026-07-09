@@ -188,6 +188,30 @@ DATE_COLUMNS = {
     "employment_begin_date", "employment_end_date", "swa_job_order_submit_date",
     "noa_issued_date",
 }
+
+# Columns that are genuinely NUMERIC in schema.sql -- everything else is TEXT.
+# python_calamine reads bare-numeric Excel cells (no letters/hyphens, so nothing
+# marks them as "text" to Excel) as Python floats. That's correct for these
+# NUMERIC columns, but for TEXT columns (naics_code, phone numbers, etc.) it
+# means a value like 71399 comes through as 71399.0, and str()'ing that later
+# leaves a stray ".0" baked into the stored text. clean_disclosure_value() below
+# fixes that for anything not in this NUMERIC set.
+NUMERIC_COLUMNS = {
+    "cap_subject_workers", "cap_exempt_workers", "workers_requested", "workers_certified",
+    "training_months", "work_experience_months", "supervises_how_many",
+    "anticipated_hours_total", "hours_sunday", "hours_monday", "hours_tuesday",
+    "hours_wednesday", "hours_thursday", "hours_friday", "hours_saturday",
+    "wage_from", "wage_to", "overtime_rate_from", "overtime_rate_to",
+}
+
+
+def clean_disclosure_value(dest_col, val):
+    """Undo calamine's bare-number-as-float reading for TEXT-destined columns."""
+    if dest_col in NUMERIC_COLUMNS or dest_col in DATE_COLUMNS:
+        return val
+    if isinstance(val, float) and val.is_integer():
+        return str(int(val))
+    return val
 DISCLOSURE_COMPLIANCE_FIELDS = [
     "AGENT_AGREEMENT_ATTACHED", "AGENT_MSPA_ATTACHED", "EMP_MSPA_ATTACHED",
     "APPENDIX_A_ATTACHED", "APPENDIX_D_COMPLETED", "JOB_CONTRACT_EXISTS",
@@ -226,6 +250,8 @@ def load_disclosure_rows():
             val = raw[idx[src_col]]
             if dest_col in DATE_COLUMNS:
                 val = as_date(val)
+            else:
+                val = clean_disclosure_value(dest_col, val)
             row[dest_col] = val
 
         flags = {}

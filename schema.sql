@@ -173,3 +173,9 @@ CREATE INDEX IF NOT EXISTS idx_h2b_cases_state ON h2b_cases(worksite_state);
 CREATE INDEX IF NOT EXISTS idx_h2b_cases_worksite_zip ON h2b_cases(worksite_postal_code);
 CREATE INDEX IF NOT EXISTS idx_h2b_cases_employer_zip ON h2b_cases(employer_postal_code);
 CREATE INDEX IF NOT EXISTS idx_h2b_cases_employer_fein ON h2b_cases(employer_fein);
+CREATE INDEX IF NOT EXISTS idx_h2b_cases_naics ON h2b_cases(naics_code);
+-- naics_code matters beyond just wage lookups: some SOC codes span genuinely
+-- different business contexts (e.g. 39-3091.00 covers traveling carnivals,
+-- fixed amusement parks, and event/party rental companies), and duty language
+-- differs meaningfully between them. Group by naics_code before amalgamating
+-- job duties when a SOC code's filings cluster into more than one NAICS.
