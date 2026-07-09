@@ -1,0 +1,43 @@
+SOC: 39-3093.00
+Title: Locker Room, Coatroom, and Dressing Room Attendants
+Description: Provide personal items to patrons or customers in locker rooms, dressing rooms, or coatrooms.
+
+Official O*NET Tasks:
+- Provide towels and sheets to clients in public baths, steam rooms, and restrooms.
+- Assign dressing room facilities, locker space, or clothing containers to patrons of athletic or bathing establishments.
+- Check supplies to ensure adequate availability, and order new supplies when necessary.
+- Monitor patrons' facility use to ensure that rules and regulations are followed, and safety and order are maintained.
+- Clean facilities such as floors or locker rooms.
+- Answer customer inquiries or explain cost, availability, policies, and procedures of facilities.
+- Refer guest problems or complaints to supervisors.
+- Maintain a lost-and-found collection.
+- Clean and polish footwear, using brushes, sponges, cleaning fluid, polishes, waxes, liquid or sole dressing, and daubers.
+- Activate emergency action plans and administer first aid, as necessary.
+- Procure beverages, food, and other items as requested.
+- Collect soiled linen or clothing for laundering.
+- Store personal possessions for patrons, issue claim checks for articles stored, and return articles on receipt of checks.
+- Operate washing machines and dryers to clean soiled apparel and towels.
+- Maintain inventories of clothing or uniforms, accessories, equipment, or linens.
+- Attend to needs of athletic teams in clubhouses.
+- Provide assistance to patrons by performing duties such as opening doors or carrying bags.
+- Operate controls that regulate temperatures or room environments.
+- Issue gym clothes, uniforms, towels, athletic equipment, and special athletic apparel.
+- Provide or arrange for services such as clothes pressing, cleaning, or repair.
+- Report and document safety hazards, potentially hazardous conditions, and unsafe practices and procedures.
+- Stencil identifying information on equipment.
+- Set up various apparatus or athletic equipment.
+- Maintain or repair athletic equipment.
+
+Official O*NET Related Occupations:
+- 39-6011.00 Baggage Porters and Bellhops
+- 39-6012.00 Concierges
+- 41-2021.00 Counter and Rental Clerks
+- 35-3041.00 Food Servers, Nonrestaurant
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- 43-4081.00 Hotel, Motel, and Resort Desk Clerks
+- 53-6021.00 Parking Attendants
+- 53-6061.00 Passenger Attendants
+- 41-2031.00 Retail Salespersons
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/39-3093.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

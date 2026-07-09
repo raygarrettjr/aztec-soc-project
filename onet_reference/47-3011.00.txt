@@ -1,0 +1,34 @@
+SOC: 47-3011.00
+Title: Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+Description: Help brickmasons, blockmasons, stonemasons, or tile and marble setters by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+Official O*NET Tasks:
+- Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.
+- Erect scaffolding or other installation structures.
+- Cut materials to specified sizes for installation, using power saws or tile cutters.
+- Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.
+- Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.
+- Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.
+- Locate and supply materials to masons for installation, following drawings or numbered sequences.
+- Arrange or store materials, machines, tools, or equipment.
+- Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.
+- Move or position materials such as marble slabs, using cranes, hoists, or dollies.
+- Remove excess grout or residue from tile or brick joints, using sponges or trowels.
+- Apply grout between joints of bricks or tiles, using grouting trowels.
+- Apply caulk, sealants, or other agents to installed surfaces.
+- Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.
+- Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.
+
+Official O*NET Related Occupations:
+- 47-2021.00 Brickmasons and Blockmasons
+- 47-2051.00 Cement Masons and Concrete Finishers
+- 47-3012.00 Helpers--Carpenters
+- 49-9098.00 Helpers--Installation, Maintenance, and Repair Workers
+- 47-3014.00 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- 47-3015.00 Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- 47-2161.00 Plasterers and Stucco Masons
+- 49-9045.00 Refractory Materials Repairers, Except Brickmasons
+- 47-2053.00 Terrazzo Workers and Finishers
+- 47-2044.00 Tile and Stone Setters
+
+Source: https://www.onetonline.org/link/summary/47-3011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,45 @@
+SOC: 47-2051.00
+Title: Cement Masons and Concrete Finishers
+Description: Smooth and finish surfaces of poured concrete, such as floors, walks, sidewalks, roads, or curbs using a variety of hand and power tools. Align forms for sidewalks, curbs, or gutters; patch voids; and use saws to cut expansion joints.
+
+Official O*NET Tasks:
+- Check the forms that hold the concrete to see that they are properly constructed.
+- Set the forms that hold concrete to the desired pitch and depth, and align them.
+- Spread, level, and smooth concrete, using rake, shovel, hand or power trowel, hand or power screed, and float.
+- Monitor how the wind, heat, or cold affect the curing of the concrete throughout the entire process.
+- Mold expansion joints and edges, using edging tools, jointers, and straightedge.
+- Signal truck driver to position truck to facilitate pouring concrete, and move chute to direct concrete on forms.
+- Direct the casting of the concrete and supervise laborers who use shovels or special tools to spread it.
+- Produce rough concrete surface, using broom.
+- Apply hardening and sealing compounds to cure surface of concrete, and waterproof or restore surface.
+- Operate power vibrator to compact concrete.
+- Install anchor bolts, steel plates, door sills and other fixtures in freshly poured concrete or pattern or stamp the surface to provide a decorative finish.
+- Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth, using trowel.
+- Waterproof or restore concrete surfaces, using appropriate compounds.
+- Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine.
+- Chip, scrape, and grind high spots, ridges, and rough projections to finish concrete, using pneumatic chisels, power grinders, or hand tools.
+- Cut out damaged areas, drill holes for reinforcing rods, and position reinforcing rods to repair concrete, using power saw and drill.
+- Wet concrete surface, and rub with stone to smooth surface and obtain specified finish.
+- Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven.
+- Build wooden molds, and clamp molds around area to be repaired, using hand tools.
+- Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish.
+- Fabricate concrete beams, columns, and panels.
+- Polish surface, using polishing or surfacing machine.
+- Cut metal division strips, and press them into terrazzo base so that top edges form desired design or pattern.
+- Push roller over surface to embed chips in surface.
+- Apply muriatic acid to clean surface, and rinse with water.
+- Spread roofing paper on surface of foundation, and spread concrete onto roofing paper with trowel to form terrazzo base.
+
+Official O*NET Related Occupations:
+- 47-2021.00 Brickmasons and Blockmasons
+- 47-2061.00 Construction Laborers
+- 47-2042.00 Floor Layers, Except Carpet, Wood, and Hard Tiles
+- 47-3011.00 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- 47-2071.00 Paving, Surfacing, and Tamping Equipment Operators
+- 47-2161.00 Plasterers and Stucco Masons
+- 47-4091.00 Segmental Pavers
+- 47-2022.00 Stonemasons
+- 47-2053.00 Terrazzo Workers and Finishers
+- 47-2044.00 Tile and Stone Setters
+
+Source: https://www.onetonline.org/link/summary/47-2051.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

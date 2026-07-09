@@ -1,0 +1,36 @@
+SOC: 39-6011.00
+Title: Baggage Porters and Bellhops
+Description: Handle baggage for travelers at transportation terminals or for guests at hotels or similar establishments.
+
+Official O*NET Tasks:
+- Receive and mark baggage by completing and attaching claim checks.
+- Greet incoming guests and escort them to their rooms.
+- Transport guests about premises and local areas, or arrange for transportation.
+- Maintain clean lobbies or entrance areas for travelers or guests.
+- Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts.
+- Supply guests or travelers with directions, travel information, and other information, such as available services and points of interest.
+- Explain the operation of room features, such as locks, ventilation systems, and televisions.
+- Assist travelers and guests with disabilities.
+- Deliver messages and room service orders, and run errands for guests.
+- Pick up and return items for laundry and valet service.
+- Act as part of the security team at transportation terminals, hotels, or similar establishments.
+- Compute and complete charge slips for services rendered and maintain records.
+- Page guests in hotel lobbies, dining rooms, or other areas.
+- Set up conference rooms, display tables, racks, or shelves, and arrange merchandise displays for sales personnel.
+- Inspect guests' rooms to ensure that they are adequately stocked, orderly, and comfortable.
+- Complete baggage insurance forms.
+- Arrange for shipments of baggage, express mail, and parcels by providing weighing and billing services.
+
+Official O*NET Related Occupations:
+- 39-6012.00 Concierges
+- 41-2021.00 Counter and Rental Clerks
+- 43-5021.00 Couriers and Messengers
+- 53-2031.00 Flight Attendants
+- 43-4081.00 Hotel, Motel, and Resort Desk Clerks
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 53-6021.00 Parking Attendants
+- 53-6061.00 Passenger Attendants
+- 43-4181.00 Reservation and Transportation Ticket Agents and Travel Clerks
+- 33-9093.00 Transportation Security Screeners
+
+Source: https://www.onetonline.org/link/summary/39-6011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

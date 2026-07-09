@@ -1,0 +1,34 @@
+SOC: 47-2021.00
+Title: Brickmasons and Blockmasons
+Description: Lay and bind building materials, such as brick, structural tile, concrete block, cinder block, glass block, and terra-cotta block, with mortar and other substances, to construct or repair walls, partitions, arches, sewers, and other structures.
+
+Official O*NET Tasks:
+- Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.
+- Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.
+- Apply and smooth mortar or other mixture over work surface.
+- Calculate angles and courses and determine vertical and horizontal alignment of courses.
+- Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.
+- Interpret blueprints and drawings to determine specifications and to calculate the materials required.
+- Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.
+- Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.
+- Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.
+- Examine brickwork or structure to determine need for repair.
+- Mix specified amounts of sand, clay, dirt, or mortar powder with water to form refractory mixtures.
+- Remove burned or damaged brick or mortar, using sledgehammer, crowbar, chipping gun, or chisel.
+- Lay and align bricks, blocks, or tiles to build or repair structures or high temperature equipment, such as cupola, kilns, ovens, or furnaces.
+- Spray or spread refractory material over brickwork to protect against deterioration.
+- Use drone technology to inspect and assess the condition of tall structures.
+
+Official O*NET Related Occupations:
+- 47-2031.00 Carpenters
+- 47-2051.00 Cement Masons and Concrete Finishers
+- 47-2061.00 Construction Laborers
+- 47-2042.00 Floor Layers, Except Carpet, Wood, and Hard Tiles
+- 47-3011.00 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- 47-2131.00 Insulation Workers, Floor, Ceiling, and Wall
+- 49-9045.00 Refractory Materials Repairers, Except Brickmasons
+- 47-2022.00 Stonemasons
+- 47-2053.00 Terrazzo Workers and Finishers
+- 47-2044.00 Tile and Stone Setters
+
+Source: https://www.onetonline.org/link/summary/47-2021.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,49 @@
+SOC: 51-9198.00
+Title: Helpers--Production Workers
+Description: Help production workers by performing duties requiring less skill. Duties include supplying or holding materials or tools, and cleaning work area and equipment.
+
+Official O*NET Tasks:
+- Load and unload items from machines, conveyors, and conveyances.
+- Operate machinery used in the production process, or assist machine operators.
+- Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.
+- Examine products to verify conformance to quality standards.
+- Start machines or equipment to begin production processes.
+- Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.
+- Remove products, machine attachments, or waste material from machines.
+- Lift raw materials, finished products, and packed items, manually or using hoists.
+- Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.
+- Pack and store materials and products.
+- Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.
+- Count finished products to determine if product orders are complete.
+- Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.
+- Separate products according to weight, grade, size, or composition of materials used to produce them.
+- Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.
+- Mark or tag identification on parts.
+- Mix ingredients according to specified procedures or formulas.
+- Tie products in bundles for further processing or shipment, following prescribed procedures.
+- Record information, such as the number of products tested, meter readings, or dates and times of product production.
+- Read gauges or charts, and record data obtained.
+- Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.
+- Signal coworkers to direct them to move products during the production process.
+- Clean and lubricate equipment.
+- Prepare raw materials for processing.
+- Perform minor repairs to machines, such as replacing damaged or worn parts.
+- Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.
+- Position spouts or chutes of storage bins so that containers can be filled.
+- Wash work areas, machines, equipment, vehicles, or products.
+- Break up defective products for reprocessing.
+- Cut or break flashing from materials or products.
+
+Official O*NET Related Occupations:
+- 51-9191.00 Adhesive Bonding Machine Operators and Tenders
+- 47-3011.00 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- 47-3012.00 Helpers--Carpenters
+- 47-5081.00 Helpers--Extraction Workers
+- 49-9098.00 Helpers--Installation, Maintenance, and Repair Workers
+- 47-3014.00 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 53-7063.00 Machine Feeders and Offbearers
+- 49-9043.00 Maintenance Workers, Machinery
+- 53-7064.00 Packers and Packagers, Hand
+
+Source: https://www.onetonline.org/link/summary/51-9198.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

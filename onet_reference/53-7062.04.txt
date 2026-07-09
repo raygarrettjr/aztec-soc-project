@@ -1,0 +1,33 @@
+SOC: 53-7062.04
+Title: Recycling and Reclamation Workers
+Description: Prepare and sort materials or products for recycling. Identify and remove hazardous substances. Dismantle components of products such as appliances.
+
+Official O*NET Tasks:
+- Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.
+- Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.
+- Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.
+- Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.
+- Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.
+- Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.
+- Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.
+- Deposit recoverable materials into chutes or place materials on conveyor belts.
+- Operate balers to compress recyclable materials into bundles or bales.
+- Clean materials, such as metals, according to recycling requirements.
+- Record logs of recycled materials or waste chemicals removed from products.
+- Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.
+- Collect recyclable materials from curbside for delivery to designated facilities.
+- Operate automated refuse or manual recycling collection vehicles.
+
+Official O*NET Related Occupations:
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 47-4041.00 Hazardous Materials Removal Workers
+- 47-5081.00 Helpers--Extraction Workers
+- 51-9198.00 Helpers--Production Workers
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 53-7063.00 Machine Feeders and Offbearers
+- 51-9111.00 Packaging and Filling Machine Operators and Tenders
+- 53-1042.01 Recycling Coordinators
+- 53-7081.00 Refuse and Recyclable Material Collectors
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+
+Source: https://www.onetonline.org/link/summary/53-7062.04 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

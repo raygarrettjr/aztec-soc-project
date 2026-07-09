@@ -1,0 +1,31 @@
+SOC: 53-6061.00
+Title: Passenger Attendants
+Description: Provide services to ensure the safety of passengers aboard ships, buses, trains, or within the station or terminal. Perform duties such as explaining the use of safety equipment, serving meals or beverages, or answering questions related to travel.
+
+Official O*NET Tasks:
+- Secure passengers for transportation by buckling seatbelts or fastening wheelchairs with tie-down straps.
+- Provide boarding assistance to elderly, sick, or injured people.
+- Respond to passengers' questions, requests, or complaints.
+- Determine or facilitate seating arrangements.
+- Provide customers with information on routes, gates, prices, timetables, terminals, or concourses.
+- Perform equipment safety checks prior to departure.
+- Greet passengers boarding transportation equipment and announce routes and stops.
+- Count and verify tickets and seat reservations and record numbers of passengers boarding and disembarking.
+- Explain and demonstrate safety procedures and safety equipment use.
+- Open and close doors for passengers.
+- Signal transportation operators to stop or to proceed.
+- Adjust window shades or seat cushions at the request of passengers.
+
+Official O*NET Related Occupations:
+- 53-1041.00 Aircraft Cargo Handling Supervisors
+- 39-6011.00 Baggage Porters and Bellhops
+- 53-3052.00 Bus Drivers, Transit and Intercity
+- 53-1044.00 First-Line Supervisors of Passenger Attendants
+- 53-2031.00 Flight Attendants
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 53-6021.00 Parking Attendants
+- 53-4031.00 Railroad Conductors and Yardmasters
+- 43-4181.00 Reservation and Transportation Ticket Agents and Travel Clerks
+- 53-3053.00 Shuttle Drivers and Chauffeurs
+
+Source: https://www.onetonline.org/link/summary/53-6061.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

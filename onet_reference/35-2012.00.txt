@@ -1,0 +1,36 @@
+SOC: 35-2012.00
+Title: Cooks, Institution and Cafeteria
+Description: Prepare and cook large quantities of food for institutions, such as schools, hospitals, or cafeterias.
+
+Official O*NET Tasks:
+- Monitor and record food temperatures to ensure food safety.
+- Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.
+- Rotate and store food supplies.
+- Wash pots, pans, dishes, utensils, or other cooking equipment.
+- Apportion and serve food to facility residents, employees, or patrons.
+- Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.
+- Clean, cut, and cook meat, fish, or poultry.
+- Direct activities of one or more workers who assist in preparing and serving meals.
+- Train new employees.
+- Take inventory of supplies and equipment.
+- Requisition food supplies, kitchen equipment, and appliances, based on estimates of future needs.
+- Bake breads, rolls, or other pastries.
+- Monitor use of government food commodities to ensure that proper procedures are followed.
+- Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.
+- Monitor menus and spending to ensure that meals are prepared economically.
+- Compile and maintain records of food use and expenditures.
+- Determine meal prices, based on calculations of ingredient prices.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 35-1011.00 Chefs and Head Cooks
+- 35-2011.00 Cooks, Fast Food
+- 35-2013.00 Cooks, Private Household
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-3023.00 Fast Food and Counter Workers
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 35-2021.00 Food Preparation Workers
+- 11-9051.00 Food Service Managers
+
+Source: https://www.onetonline.org/link/summary/35-2012.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

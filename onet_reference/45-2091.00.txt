@@ -1,0 +1,37 @@
+SOC: 45-2091.00
+Title: Agricultural Equipment Operators
+Description: Drive and control equipment to support agricultural activities such as tilling soil; planting, cultivating, and harvesting crops; feeding and herding livestock; or removing animal waste. May perform tasks such as crop baling or hay bucking. May operate stationary equipment to perform post-harvest tasks such as husking, shelling, threshing, and ginning.
+
+Official O*NET Tasks:
+- Load and unload crops or containers of materials, manually or using conveyors, handtrucks, forklifts, or transfer augers.
+- Mix specified materials or chemicals, and dump solutions, powders, or seeds into planter or sprayer machinery.
+- Spray fertilizer or pesticide solutions to control insects, fungus and weed growth, and diseases, using hand sprayers.
+- Observe and listen to machinery operation to detect equipment malfunctions.
+- Manipulate controls to set, activate, and adjust mechanisms on machinery.
+- Operate or tend equipment used in agricultural production, such as tractors, combines, and irrigation equipment.
+- Adjust, repair, and service farm machinery and notify supervisors when machinery malfunctions.
+- Attach farm implements such as plows, discs, sprayers, or harvesters to tractors, using bolts and hand tools.
+- Load hoppers, containers, or conveyors to feed machines with products, using forklifts, transfer augers, suction gates, shovels, or pitchforks.
+- Direct and monitor the activities of work crews engaged in planting, weeding, or harvesting activities.
+- Operate towed machines such as seed drills or manure spreaders to plant, fertilize, dust, and spray crops.
+- Weigh crop-filled containers, and record weights and other identifying information.
+- Walk beside or ride on planting machines while inserting plants in planter mechanisms at specified intervals.
+- Drive trucks to haul crops, supplies, tools, or farm workers.
+- Guide products on conveyors to regulate flow through machines, and to discard diseased or rotten products.
+- Position boxes or attach bags at discharge ends of machinery to catch products, removing and closing full containers.
+- Irrigate soil, using portable pipes or ditch systems, and maintain ditches or pipes and pumps.
+- Operate drones to monitor crop health, growth and pest infestations, and apply targeted treatments.
+
+Official O*NET Related Occupations:
+- 53-7011.00 Conveyor Operators and Tenders
+- 51-9021.00 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- 51-9041.00 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- 45-2092.00 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- 53-7051.00 Industrial Truck and Tractor Operators
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 53-7063.00 Machine Feeders and Offbearers
+- 51-4035.00 Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- 37-3012.00 Pesticide Handlers, Sprayers, and Applicators, Vegetation
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+
+Source: https://www.onetonline.org/link/summary/45-2091.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

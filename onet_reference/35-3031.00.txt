@@ -1,0 +1,46 @@
+SOC: 35-3031.00
+Title: Waiters and Waitresses
+Description: Take orders and serve food and beverages to patrons at tables in dining establishment.
+
+Official O*NET Tasks:
+- Collect payments from customers.
+- Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.
+- Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.
+- Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.
+- Take orders from patrons for food or beverages.
+- Prepare checks that itemize and total meal costs and sales taxes.
+- Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.
+- Clean tables or counters after patrons have finished dining.
+- Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.
+- Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.
+- Present menus to patrons and answer questions about menu items, making recommendations upon request.
+- Prepare tables for meals, including setting up items such as linens, silverware, and glassware.
+- Stock service areas with supplies such as coffee, food, tableware, and linens.
+- Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.
+- Inform customers of daily specials.
+- Explain how various menu items are prepared, describing ingredients and cooking methods.
+- Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.
+- Fill salt, pepper, sugar, cream, condiment, and napkin containers.
+- Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.
+- Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.
+- Escort customers to their tables.
+- Provide guests with information about local areas, including directions.
+- Garnish and decorate dishes in preparation for serving.
+- Bring wine selections to tables with appropriate glasses, and pour the wines for customers.
+- Describe and recommend wines to customers.
+- Check with customers to see if they want to apply any rewards to their purchase.
+- Perform routine tasks, such as refilling syrups, sanitizer bottles, and other essential supplies.
+
+Official O*NET Related Occupations:
+- 35-3023.01 Baristas
+- 35-3011.00 Bartenders
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 35-2021.00 Food Preparation Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 11-9051.00 Food Service Managers
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+
+Source: https://www.onetonline.org/link/summary/35-3031.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

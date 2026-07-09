@@ -1,0 +1,47 @@
+SOC: 49-9071.00
+Title: Maintenance and Repair Workers, General
+Description: Perform work involving the skills of two or more maintenance or craft occupations to keep machines, mechanical equipment, or the structure of a building in repair. Duties may involve pipe fitting; HVAC maintenance; insulating; welding; machining; carpentry; repairing electrical or mechanical equipment; installing, aligning, and balancing new equipment; and repairing buildings, floors, or stairs.
+
+Official O*NET Tasks:
+- Perform routine maintenance, such as inspecting drives, motors, or belts, checking fluid levels, replacing filters, or doing other preventive maintenance actions.
+- Inspect, operate, or test machinery or equipment to diagnose machine malfunctions.
+- Adjust functional parts of devices or control instruments, using hand tools, levels, plumb bobs, or straightedges.
+- Repair machines, equipment, or structures, using tools such as hammers, hoists, saws, drills, wrenches, or equipment such as precision measuring instruments or electrical or electronic testing devices.
+- Order parts, supplies, or equipment from catalogs or suppliers.
+- Diagnose mechanical problems and determine how to correct them, checking blueprints, repair manuals, or parts catalogs, as necessary.
+- Design new equipment to aid in the repair or maintenance of machines, mechanical equipment, or building structures.
+- Assemble, install, or repair wiring, electrical or electronic components, pipe systems, plumbing, machinery, or equipment.
+- Clean or lubricate shafts, bearings, gears, or other parts of machinery.
+- Estimate costs to repair machinery, equipment, or building structures.
+- Align and balance new equipment after installation.
+- Record type and cost of maintenance or repair work.
+- Maintain or repair specialized equipment or machinery located in cafeterias, laundries, hospitals, stores, offices, or factories.
+- Dismantle machines, equipment, or devices to access and remove defective parts, using hoists, cranes, hand tools, or power tools.
+- Plan and lay out repair work, using diagrams, drawings, blueprints, maintenance manuals, or schematic diagrams.
+- Install equipment to improve the energy or operational efficiency of residential or commercial buildings.
+- Set up and operate machine tools to repair or fabricate machine parts, jigs, fixtures, or tools.
+- Perform general cleaning of buildings or properties.
+- Train or manage maintenance personnel or subcontractors.
+- Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings.
+- Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures.
+- Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency.
+- Provide groundskeeping services, such as landscaping or snow removal.
+- Operate cutting torches or welding equipment to cut or join metal parts.
+- Inspect used parts to determine changes in dimensional requirements, using rules, calipers, micrometers, or other measuring instruments.
+- Assemble boilers at installation sites, using tools such as levels, plumb bobs, hammers, torches, or other hand tools.
+- Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects.
+- Use drones for inspecting roofs, gutters, and other hard-to-reach areas of buildings.
+
+Official O*NET Related Occupations:
+- 51-2011.00 Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- 47-2011.00 Boilermakers
+- 51-2031.00 Engine and Other Machine Assemblers
+- 49-3041.00 Farm Equipment Mechanics and Service Technicians
+- 49-9098.00 Helpers--Installation, Maintenance, and Repair Workers
+- 51-8013.04 Hydroelectric Plant Technicians
+- 49-9041.00 Industrial Machinery Mechanics
+- 49-9044.00 Millwrights
+- 49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines
+- 47-2152.00 Plumbers, Pipefitters, and Steamfitters
+
+Source: https://www.onetonline.org/link/summary/49-9071.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

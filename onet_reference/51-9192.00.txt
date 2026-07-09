@@ -1,0 +1,30 @@
+SOC: 51-9192.00
+Title: Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+Description: Operate or tend machines to wash or clean products, such as barrels or kegs, glass items, tin plate, food, pulp, coal, plastic, or rubber, to remove impurities.
+
+Official O*NET Tasks:
+- Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.
+- Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.
+- Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.
+- Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.
+- Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.
+- Record gauge readings, materials used, processing times, or test results in production logs.
+- Examine and inspect machines to detect malfunctions.
+- Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.
+- Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.
+- Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.
+- Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.
+
+Official O*NET Related Occupations:
+- 51-8091.00 Chemical Plant and System Operators
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 51-9193.00 Cooling and Freezing Equipment Operators and Tenders
+- 51-9021.00 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- 51-9051.00 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- 51-4191.00 Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- 51-6011.00 Laundry and Dry-Cleaning Workers
+- 51-9023.00 Mixing and Blending Machine Setters, Operators, and Tenders
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- 51-6061.00 Textile Bleaching and Dyeing Machine Operators and Tenders
+
+Source: https://www.onetonline.org/link/summary/51-9192.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

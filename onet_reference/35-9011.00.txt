@@ -1,0 +1,43 @@
+SOC: 35-9011.00
+Title: Dining Room and Cafeteria Attendants and Bartender Helpers
+Description: Facilitate food service. Clean tables; remove dirty dishes; replace soiled table linens; set tables; replenish supply of clean linens, silverware, glassware, and dishes; supply service bar with food; and serve items such as water, condiments, and coffee to patrons.
+
+Official O*NET Tasks:
+- Run cash registers.
+- Serve ice water, coffee, rolls, or butter to patrons.
+- Scrape and stack dirty dishes and carry dishes and other tableware to kitchens for cleaning.
+- Wipe tables or seats with dampened cloths or replace dirty tablecloths.
+- Set tables with clean linens, condiments, or other supplies.
+- Greet and seat customers.
+- Clean up spilled food or drink or broken dishes and remove empty bottles and trash.
+- Maintain adequate supplies of items, such as clean linens, silverware, glassware, dishes, or trays.
+- Locate items requested by customers.
+- Fill beverage or ice dispensers.
+- Carry food, dishes, trays, or silverware from kitchens or supply departments to serving counters.
+- Perform serving, cleaning, or stocking duties in establishments, such as cafeterias or dining rooms, to facilitate customer service.
+- Carry trays from food counters to tables for cafeteria patrons.
+- Stock cabinets or serving areas with condiments and refill condiment containers.
+- Serve food to customers when waiters or waitresses need assistance.
+- Clean and polish counters, shelves, walls, furniture, or equipment in food service areas or other areas of restaurants and mop or vacuum floors.
+- Replenish supplies of food or equipment at steam tables or service bars.
+- Wash glasses or other serving equipment at bars.
+- Carry linens to or from laundry areas.
+- Garnish foods and position them on tables to make them visible and accessible.
+- Mix and prepare flavors for mixed drinks.
+- Slice and pit fruit used to garnish drinks.
+- Stock refrigerating units with wines or bottled beer or replace empty beer kegs.
+- Prepare food, such as sandwiches, for customers.
+
+Official O*NET Related Occupations:
+- 35-3023.01 Baristas
+- 35-3011.00 Bartenders
+- 35-2015.00 Cooks, Short Order
+- 35-9021.00 Dishwashers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-2021.00 Food Preparation Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- 37-2012.00 Maids and Housekeeping Cleaners
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-9011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,39 @@
+SOC: 53-7061.00
+Title: Cleaners of Vehicles and Equipment
+Description: Wash or otherwise clean vehicles, machinery, and other equipment. Use such materials as water, cleaning agents, brushes, cloths, and hoses.
+
+Official O*NET Tasks:
+- Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.
+- Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.
+- Clean and polish vehicle windows.
+- Drive vehicles to or from workshops or customers' workplaces or homes.
+- Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.
+- Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.
+- Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.
+- Maintain inventories of supplies.
+- Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.
+- Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.
+- Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.
+- Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.
+- Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.
+- Press buttons to activate cleaning equipment or machines.
+- Connect hoses or lines to pumps or other equipment.
+- Clean the plastic work inside cars, using paintbrushes.
+- Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.
+- Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.
+- Transport materials, equipment, or supplies to or from work areas, using carts or hoists.
+- Fit boot spoilers, side skirts, or mud flaps to cars.
+
+Official O*NET Related Occupations:
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 51-9124.00 Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- 35-9021.00 Dishwashers
+- 49-9031.00 Home Appliance Repairers
+- 37-2011.00 Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+- 51-6011.00 Laundry and Dry-Cleaning Workers
+- 53-7063.00 Machine Feeders and Offbearers
+- 49-9043.00 Maintenance Workers, Machinery
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- 47-4071.00 Septic Tank Servicers and Sewer Pipe Cleaners
+
+Source: https://www.onetonline.org/link/summary/53-7061.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

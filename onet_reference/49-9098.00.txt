@@ -1,0 +1,35 @@
+SOC: 49-9098.00
+Title: Helpers--Installation, Maintenance, and Repair Workers
+Description: Help installation, maintenance, and repair workers in maintenance, parts replacement, and repair of vehicles, industrial machinery, and electrical and electronic equipment. Perform duties such as furnishing tools, materials, and supplies to other workers; cleaning work area, machines, and tools; and holding materials or tools for other workers.
+
+Official O*NET Tasks:
+- Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.
+- Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.
+- Tend and observe equipment and machinery to verify efficient and safe operation.
+- Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.
+- Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.
+- Hold or supply tools, parts, equipment, and supplies for other workers.
+- Diagnose electrical problems and install and rewire electrical components.
+- Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.
+- Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.
+- Transfer tools, parts, equipment, and supplies to and from work stations and other areas.
+- Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.
+- Order new parts to maintain inventory.
+- Apply protective materials to equipment, components, and parts to prevent defects and corrosion.
+- Design, weld, and fabricate parts, using blueprints or other mechanical plans.
+- Assemble and maintain physical structures, using hand or power tools.
+- Prepare work stations for use by mechanics and repairers.
+
+Official O*NET Related Occupations:
+- 49-2092.00 Electric Motor, Power Tool, and Related Repairers
+- 47-3011.00 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- 47-3012.00 Helpers--Carpenters
+- 47-3013.00 Helpers--Electricians
+- 47-5081.00 Helpers--Extraction Workers
+- 47-3014.00 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- 47-3015.00 Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- 51-9198.00 Helpers--Production Workers
+- 49-9043.00 Maintenance Workers, Machinery
+- 49-9044.00 Millwrights
+
+Source: https://www.onetonline.org/link/summary/49-9098.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

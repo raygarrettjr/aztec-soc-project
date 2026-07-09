@@ -1,0 +1,44 @@
+SOC: 51-3092.00
+Title: Food Batchmakers
+Description: Set up and operate equipment that mixes or blends ingredients used in the manufacturing of food products. Includes candy makers and cheese makers.
+
+Official O*NET Tasks:
+- Record production and test data for each food product batch, such as the ingredients used, temperature, test results, and time cycle.
+- Clean and sterilize vats and factory processing areas.
+- Set up, operate, and tend equipment that cooks, mixes, blends, or processes ingredients in the manufacturing of food products, according to formulas or recipes.
+- Mix or blend ingredients, according to recipes, using a paddle or an agitator, or by controlling vats that heat and mix ingredients.
+- Follow recipes to produce food products of specified flavor, texture, clarity, bouquet, or color.
+- Give directions to other workers who are assisting in the batchmaking process.
+- Select and measure or weigh ingredients, using English or metric measures and balance scales.
+- Press switches and turn knobs to start, adjust, and regulate equipment, such as beaters, extruders, discharge pipes, and salt pumps.
+- Determine mixing sequences, based on knowledge of temperature effects and of the solubility of specific ingredients.
+- Observe and listen to equipment to detect possible malfunctions, such as leaks or plugging, and report malfunctions or undesirable tastes to supervisors.
+- Observe gauges and thermometers to determine if the mixing chamber temperature is within specified limits, and turn valves to control the temperature.
+- Turn valve controls to start equipment and to adjust operation to maintain product quality.
+- Modify cooking and forming operations based on the results of sampling processes, adjusting time cycles and ingredients to achieve desired qualities, such as firmness or texture.
+- Examine, feel, and taste product samples during production to evaluate quality, color, texture, flavor, and bouquet, and document the results.
+- Test food product samples for moisture content, acidity level, specific gravity, or butter-fat content, and continue processing until desired levels are reached.
+- Inspect vats after cleaning to ensure that fermentable residue has been removed.
+- Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand.
+- Manipulate products, by hand or using machines, to separate, spread, knead, spin, cast, cut, pull, or roll products.
+- Cool food product batches on slabs or in water-cooled kettles.
+- Place products on carts or conveyors to transfer them to the next stage of processing.
+- Homogenize or pasteurize material to prevent separation or to obtain prescribed butterfat content, using a homogenizing device.
+- Grade food products according to government regulations or according to type, color, bouquet, and moisture content.
+- Operate refining machines to reduce the particle size of cooked batches.
+- Formulate or modify recipes for specific kinds of food products.
+- Inspect and pack the final product.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 51-9193.00 Cooling and Freezing Equipment Operators and Tenders
+- 51-9021.00 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- 51-9041.00 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- 51-3091.00 Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- 51-3093.00 Food Cooking Machine Operators and Tenders
+- 45-2041.00 Graders and Sorters, Agricultural Products
+- 51-9023.00 Mixing and Blending Machine Setters, Operators, and Tenders
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+
+Source: https://www.onetonline.org/link/summary/51-3092.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

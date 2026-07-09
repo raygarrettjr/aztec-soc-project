@@ -34,7 +34,7 @@ Filing H-2B paperwork (9141, SWA job order, 9142B) requires wage figures and dut
 1. **H-2B case database** -- ~10,600 filings across 26 target SOC codes, combining DOL's quarterly disclosure data and the seasonaljobs.dol.gov rolling feed, with near-comprehensive field coverage (wages, duties, requirements, employer/attorney/worksite details). *(Built.)*
 2. **Weekly automated refresh** -- GitHub Actions pulls the current feed every Monday and upserts new/updated cases, with no dependency on any local machine. *(Built.)*
 3. **SOC + zip wage/duties lookup skill** (`h2b-wage-lookup`) -- given an SOC code and zip, returns a wage range, job duties, special requirements, and temporary need synthesis, broadening geography when data is thin. *(Built, packaged as a Claude Skill.)*
-4. **Job duties amalgam by SOC code (beta, in progress)** -- given just an SOC code, produce the simplest, cleanest list of most-commonly-filed job duties nationwide, for 9141 drafting. Includes checking whether the SOC code spans multiple NAICS/business contexts (e.g., carnival vs. hotel vs. party-rental) and segmenting the amalgam if so, rather than blending unrelated duty patterns. *(Being validated against real SOC codes before deciding on final shape/whether it's a standalone skill.)*
+4. **Job duties amalgam by SOC code (beta, in progress)** -- given just an SOC code, produce a tightly-worded core duties list, a related-SOC risk summary, and a word-usage frequency breakdown, for 9141 drafting. Driven by a specific business concern: DOL is reportedly using AI to review 9141s, and unusual/modifier-heavy wording risks tipping the review into a different (often higher-wage) SOC classification even when actual duties don't match. Design direction so far: use real filing frequency (with a floor -- at least 5 duties, or however many clear a majority threshold, whichever is greater) plus O*NET's official task list as a floor so a real core duty is never dropped just because filers phrase it inconsistently; strip hedge/modifier language (may, typically, as needed) from suggested wording; check for multiple NAICS/business contexts within a SOC code (e.g., carnival vs. golf course vs. hotel/resort for 39-3091.00) and segment rather than blend; and cross-check against O*NET's official Related Occupations list (backed by real filing-frequency evidence for related codes within our own 26, general O*NET-text comparison for codes outside it) to flag specific words that could cause cross-SOC confusion. *(Being validated against real SOC codes before finalizing; not yet decided whether this becomes its own skill or folds into `h2b-wage-lookup`.)*
 5. **9141 / SWA / 9142B prefill suggestions** -- auto-suggested draft values for Aztec's own filings, built on top of features 3-4. *(Not started -- longer-term goal, depends on 4 being validated first.)*
 
 ---
@@ -88,6 +88,9 @@ Automation:           .github/workflows/weekly-update.yml
 Schema:               schema.sql
 Docs:                 README.md
 Handoff/status log:   PROJECT_STATUS.md
+O*NET reference:      onet_reference/{SOC_CODE}.txt (71 files: our 26 target codes +
+                      45 O*NET-flagged related codes; official task lists +
+                      related occupations, bundled into the skill too)
 Skill (packaged):     h2b-wage-lookup.skill (built from a SKILL.md, not stored in this repo)
 Obsolete (history):   load_to_supabase.py, backfill_zip_and_duties.py
 ```

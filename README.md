@@ -16,6 +16,20 @@ ETA-9141 (prevailing wage), the SWA job order, and ETA-9142B (H-2B application) 
 - `update_from_feed.py` -- weekly incremental updater, run automatically via GitHub Actions (see below)
 - `.github/workflows/weekly-update.yml` -- the GitHub Actions workflow that runs
   `update_from_feed.py` on a weekly schedule, in GitHub's cloud
+- `onet_reference/` -- 71 small text files pulled from O*NET OnLine (US Dept of
+  Labor/ETA, CC BY 4.0): one for each of the 26 target SOC codes (e.g.
+  `37-3011.00.txt`), plus 45 more for SOC codes O*NET itself flagged as related to two
+  or more of those 26 (the highest-value adjacent codes for cross-SOC confusion risk).
+  Each file has the occupation title, official description, full official Task list,
+  and O*NET's own Related Occupations list. Used as an authoritative cross-check so
+  the job-duties amalgam tool never drops a real core duty just because it's
+  underrepresented in our filing sample, and as the evidence base for flagging which
+  SOC codes a given occupation could be confused with. Also bundled directly inside
+  the `h2b-wage-lookup` skill so it's available without a live fetch. To refresh
+  (O*NET updates occupational data periodically): re-fetch
+  `https://www.onetonline.org/link/summary/{SOC_CODE}` for the relevant codes and
+  rebuild the files in the same format -- no separate script needed, just ask Claude
+  to redo the same extraction process.
 - `h2b_soc_data_2026.csv` -- original 10,593-row export from the first pass (25 columns);
   kept as a historical snapshot, superseded by the live table
 

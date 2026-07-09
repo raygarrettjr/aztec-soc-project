@@ -1,0 +1,38 @@
+SOC: 49-9043.00
+Title: Maintenance Workers, Machinery
+Description: Lubricate machinery, change parts, or perform other routine machinery maintenance.
+
+Official O*NET Tasks:
+- Dismantle machines and remove parts for repair, using hand tools, chain falls, jacks, cranes, or hoists.
+- Reassemble machines after the completion of repair or maintenance work.
+- Record production, repair, and machine maintenance information.
+- Lubricate or apply adhesives or other materials to machines, machine parts, or other equipment according to specified procedures.
+- Install, replace, or change machine parts and attachments, according to production specifications.
+- Set up and operate machines, and adjust controls to regulate operations.
+- Collaborate with other workers to repair or move machines, machine parts, or equipment.
+- Read work orders and specifications to determine machines and equipment requiring repair or maintenance.
+- Inspect or test damaged machine parts, and mark defective areas or advise supervisors of repair needs.
+- Start machines and observe mechanical operation to determine efficiency and to detect problems.
+- Transport machine parts, tools, equipment, and other material between work areas and storage, using cranes, hoists, or dollies.
+- Collect and discard worn machine parts and other refuse to maintain machinery and work areas.
+- Inventory and requisition machine parts, equipment, and other supplies so that stock can be maintained and replenished.
+- Remove hardened material from machines or machine parts, using abrasives, power and hand tools, jackhammers, sledgehammers, or other equipment.
+- Replace, empty, or replenish machine and equipment containers such as gas tanks or boxes.
+- Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.
+- Replace or repair metal, wood, leather, glass, or other lining in machines, or in equipment compartments or containers.
+- Measure, mix, prepare, and test chemical solutions used to clean or repair machinery and equipment.
+- Troubleshoot electrical, hydraulic, or mechanical equipment and machines.
+
+Official O*NET Related Occupations:
+- 49-9012.00 Control and Valve Installers and Repairers, Except Mechanical Door
+- 49-2092.00 Electric Motor, Power Tool, and Related Repairers
+- 51-4033.00 Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- 49-9041.00 Industrial Machinery Mechanics
+- 53-7063.00 Machine Feeders and Offbearers
+- 49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines
+- 51-4081.00 Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- 49-3043.00 Rail Car Repairers
+- 51-4194.00 Tool Grinders, Filers, and Sharpeners
+- 51-7042.00 Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+
+Source: https://www.onetonline.org/link/summary/49-9043.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

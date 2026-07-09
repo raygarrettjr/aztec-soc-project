@@ -1,0 +1,44 @@
+SOC: 51-9032.00
+Title: Cutting and Slicing Machine Setters, Operators, and Tenders
+Description: Set up, operate, or tend machines that cut or slice materials, such as glass, stone, cork, rubber, tobacco, food, paper, or insulating material.
+
+Official O*NET Tasks:
+- Set up, operate, or tend machines that cut or slice materials, such as glass, stone, cork, rubber, tobacco, food, paper, or insulating material.
+- Review work orders, blueprints, specifications, or job samples to determine components, settings, and adjustments for cutting and slicing machines.
+- Examine, measure, and weigh materials or products to verify conformance to specifications, using measuring devices, such as rulers, micrometers, or scales.
+- Press buttons, pull levers, or depress pedals to start and operate cutting and slicing machines.
+- Start machines to verify setups, and make any necessary adjustments.
+- Feed stock into cutting machines, onto conveyors, or under cutting blades, by threading, guiding, pushing, or turning handwheels.
+- Monitor operation of cutting or slicing machines to detect malfunctions or to determine whether supplies need replenishment.
+- Stack and sort cut material for packaging, further processing, or shipping, according to types and sizes of material.
+- Adjust machine controls to alter position, alignment, speed, or pressure.
+- Remove completed materials or products from cutting or slicing machines, and stack or store them for additional processing.
+- Maintain production records, such as quantities, types, and dimensions of materials produced.
+- Remove defective or substandard materials from machines, and readjust machine components so that products meet standards.
+- Position stock along cutting lines, or against stops on beds of scoring or cutting machines.
+- Move stock or scrap to and from machines manually, or by using carts, handtrucks, or lift trucks.
+- Select and install machine components, such as cutting blades, rollers, and templates, according to specifications, using hand tools.
+- Clean and lubricate cutting machines, conveyors, blades, saws, or knives, using steam hoses, scrapers, brushes, or oil cans.
+- Mark cutting lines or identifying information on stock, using marking pencils, rulers, or scribes.
+- Type instructions on computer keyboards, push buttons to activate computer programs, or manually set cutting guides, clamps, and knives.
+- Change or replace saw blades, cables, cutter heads, and grinding wheels, using hand tools.
+- Position width gauge blocks between blades, and level blades and insert wedges into frames to secure blades to frames.
+- Direct workers on cutting teams.
+- Sharpen cutting blades, knives, or saws, using files, bench grinders, or honing stones.
+- Turn cranks or press buttons to activate winches that move cars under sawing cables or saw frames.
+- Tighten pulleys or add abrasives to maintain cutting speeds.
+- Cut stock manually to prepare for machine cutting, using tools such as knives, cleavers, handsaws, or hammers and chisels.
+
+Official O*NET Related Occupations:
+- 51-9191.00 Adhesive Bonding Machine Operators and Tenders
+- 51-4031.00 Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- 51-4033.00 Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- 51-4035.00 Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- 51-4081.00 Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- 51-9196.00 Paper Goods Machine Setters, Operators, and Tenders
+- 51-4023.00 Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- 51-7041.00 Sawing Machine Setters, Operators, and Tenders, Wood
+- 51-6062.00 Textile Cutting Machine Setters, Operators, and Tenders
+- 51-7042.00 Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+
+Source: https://www.onetonline.org/link/summary/51-9032.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

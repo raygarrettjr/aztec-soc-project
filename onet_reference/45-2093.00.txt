@@ -1,0 +1,38 @@
+SOC: 45-2093.00
+Title: Farmworkers, Farm, Ranch, and Aquacultural Animals
+Description: Attend to live farm, ranch, open range or aquacultural animals that may include cattle, sheep, swine, goats, horses and other equines, poultry, rabbits, finfish, shellfish, and bees. Attend to animals produced for animal products, such as meat, fur, skins, feathers, eggs, milk, and honey. Duties may include feeding, watering, herding, grazing, milking, castrating, branding, de-beaking, weighing, catching, and loading animals. May maintain records on animals; examine animals to detect diseases and injuries; assist in birth deliveries; and administer medications, vaccinations, or insecticides as appropriate. May clean and maintain animal housing areas. Includes workers who shear wool from sheep and collect eggs in hatcheries.
+
+Official O*NET Tasks:
+- Feed and water livestock and monitor food and water supplies.
+- Herd livestock to pastures for grazing or to scales, trucks, or other enclosures.
+- Examine animals to detect illness, injury, or disease, and to check physical characteristics, such as rate of weight gain.
+- Provide medical treatment, such as administering medications and vaccinations, or arrange for veterinarians to provide more extensive treatment.
+- Mark livestock to identify ownership and grade, using brands, tags, paint, or tattoos.
+- Drive trucks, tractors, and other equipment to distribute feed to animals.
+- Segregate animals according to weight, age, color, and physical condition.
+- Inspect, maintain, and repair equipment, machinery, buildings, pens, yards, and fences.
+- Move equipment, poultry, or livestock from one location to another, manually or using trucks or carts.
+- Clean stalls, pens, and equipment, using disinfectant solutions, brushes, shovels, water hoses, or pumps.
+- Mix feed, additives, and medicines in prescribed portions.
+- Shift animals between grazing areas to ensure that they have sufficient access to food.
+- Protect herds from predators, using trained dogs.
+- Order food for animals, and arrange for its delivery.
+- Perform duties related to livestock reproduction, such as breeding animals within appropriate timeframes, performing artificial inseminations, and helping with animal births.
+- Patrol grazing lands on horseback or using all-terrain vehicles.
+- Maintain growth, feeding, production, and cost records.
+- Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.
+- Spray livestock with disinfectants and insecticides, or dip or bathe animals.
+
+Official O*NET Related Occupations:
+- 45-2091.00 Agricultural Equipment Operators
+- 19-4012.00 Agricultural Technicians
+- 45-2021.00 Animal Breeders
+- 39-2021.00 Animal Caretakers
+- 45-2092.00 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- 45-1011.00 First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- 45-2041.00 Graders and Sorters, Agricultural Products
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 51-3022.00 Meat, Poultry, and Fish Cutters and Trimmers
+- 51-3023.00 Slaughterers and Meat Packers
+
+Source: https://www.onetonline.org/link/summary/45-2093.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

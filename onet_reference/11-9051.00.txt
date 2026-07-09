@@ -1,0 +1,47 @@
+SOC: 11-9051.00
+Title: Food Service Managers
+Description: Plan, direct, or coordinate activities of an organization or department that serves food and beverages.
+
+Official O*NET Tasks:
+- Count money and make bank deposits.
+- Establish standards for personnel performance and customer service.
+- Keep records required by government agencies regarding sanitation or food subsidies.
+- Schedule staff hours and assign duties.
+- Investigate and resolve complaints regarding food quality, service, or accommodations.
+- Maintain food and equipment inventories, and keep inventory records.
+- Perform some food preparation or service tasks, such as cooking, clearing tables, and serving food and drinks when necessary.
+- Monitor budgets and payroll records, and review financial transactions to ensure that expenditures are authorized and budgeted.
+- Schedule and receive food and beverage deliveries, checking delivery contents to verify product quality and quantity.
+- Coordinate assignments of cooking personnel to ensure economical use of food and timely preparation.
+- Organize and direct worker training programs, resolve personnel problems, hire new staff, and evaluate employee performance in dining and lodging facilities.
+- Assess staffing needs and recruit staff, using methods such as newspaper advertisements or attendance at job fairs.
+- Estimate food, liquor, wine, and other beverage consumption to anticipate amounts to be purchased or requisitioned.
+- Monitor food preparation methods, portion sizes, and garnishing and presentation of food to ensure that food is prepared and presented in an acceptable manner.
+- Monitor compliance with health and fire regulations regarding food preparation and serving, and building maintenance in lodging and dining facilities.
+- Test cooked food by tasting and smelling it to ensure palatability and flavor conformity.
+- Order and purchase equipment and supplies.
+- Review work procedures and operational problems to determine ways to improve service, performance, or safety.
+- Arrange for equipment maintenance and repairs, and coordinate a variety of services, such as waste removal and pest control.
+- Monitor employee and patron activities to ensure liquor regulations are obeyed.
+- Greet guests, escort them to their seats, and present them with menus and wine lists.
+- Record the number, type, and cost of items sold to determine which items may be unpopular or less profitable.
+- Plan menus and food utilization, based on anticipated number of guests, nutritional value, palatability, popularity, and costs.
+- Review menus and analyze recipes to determine labor and overhead costs, and assign prices to menu items.
+- Take dining reservations.
+- Create specialty dishes and develop recipes to be used in dining facilities.
+- Schedule use of facilities or catering services for events such as banquets or receptions, and negotiate details of arrangements with clients.
+- Establish and enforce nutritional standards for dining establishments, based on accepted industry standards.
+
+Official O*NET Related Occupations:
+- 35-1011.00 Chefs and Head Cooks
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2013.00 Cooks, Private Household
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 39-1022.00 First-Line Supervisors of Personal Service Workers
+- 41-1011.00 First-Line Supervisors of Retail Sales Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+
+Source: https://www.onetonline.org/link/summary/11-9051.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

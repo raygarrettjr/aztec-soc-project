@@ -1,0 +1,39 @@
+SOC: 37-2012.00
+Title: Maids and Housekeeping Cleaners
+Description: Perform any combination of light cleaning duties to maintain private households or commercial establishments, such as hotels and hospitals, in a clean and orderly manner. Duties may include making beds, replenishing linens, cleaning rooms and halls, and vacuuming.
+
+Official O*NET Tasks:
+- Keep storage areas and carts well-stocked, clean, and tidy.
+- Carry linens, towels, toilet items, and cleaning supplies, using wheeled carts.
+- Clean rooms, hallways, lobbies, lounges, restrooms, corridors, elevators, stairways, locker rooms, and other work areas so that health standards are met.
+- Empty wastebaskets, empty and clean ashtrays, and transport other trash and waste to disposal areas.
+- Sweep, scrub, wax, or polish floors, using brooms, mops, or powered scrubbing and waxing machines.
+- Replenish supplies, such as drinking glasses, linens, writing supplies, and bathroom items.
+- Clean rugs, carpets, upholstered furniture, and draperies, using vacuum cleaners and shampooers.
+- Wash windows, walls, ceilings, and woodwork, waxing and polishing as necessary.
+- Dust and polish furniture and equipment.
+- Disinfect equipment and supplies, using germicides or steam-operated sterilizers.
+- Observe precautions required to protect hotel and guest property and report damage, theft, and found articles to supervisors.
+- Sort, count, and mark clean linens and store them in linen closets.
+- Sort clothing and other articles, load washing machines, and iron and fold dried items.
+- Move and arrange furniture and turn mattresses.
+- Replace light bulbs.
+- Deliver television sets, ironing boards, baby cribs, and rollaway beds to guests' rooms.
+- Hang draperies and dust window blinds.
+- Request repair services and wait for repair workers to arrive.
+- Prepare rooms for meetings and arrange decorations, media equipment, and furniture for social or business functions.
+- Polish silver accessories and metalwork, such as fixtures and fittings.
+
+Official O*NET Related Occupations:
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-9021.00 Dishwashers
+- 35-3023.00 Fast Food and Counter Workers
+- 37-1011.00 First-Line Supervisors of Housekeeping and Janitorial Workers
+- 37-2011.00 Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+- 51-6011.00 Laundry and Dry-Cleaning Workers
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 51-9123.00 Painting, Coating, and Decorating Workers
+- 51-6021.00 Pressers, Textile, Garment, and Related Materials
+
+Source: https://www.onetonline.org/link/summary/37-2012.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

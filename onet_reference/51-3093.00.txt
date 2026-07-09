@@ -1,0 +1,36 @@
+SOC: 51-3093.00
+Title: Food Cooking Machine Operators and Tenders
+Description: Operate or tend cooking equipment, such as steam cooking vats, deep fry cookers, pressure cookers, kettles, and boilers, to prepare food products.
+
+Official O*NET Tasks:
+- Clean, wash, and sterilize equipment and cooking area, using water hoses, cleaning or sterilizing solutions, or rinses.
+- Read work orders, recipes, or formulas to determine cooking times and temperatures, and ingredient specifications.
+- Observe gauges, dials, and product characteristics, and adjust controls to maintain appropriate temperature, pressure, and flow of ingredients.
+- Measure or weigh ingredients, using scales or measuring containers.
+- Tend or operate and control equipment, such as kettles, cookers, vats and tanks, and boilers, to cook ingredients or prepare products for further processing.
+- Record production and test data, such as processing steps, temperature and steam readings, cooking time, batches processed, and test results.
+- Set temperature, pressure, and time controls, and start conveyers, machines, or pumps.
+- Remove cooked material or products from equipment.
+- Collect and examine product samples during production to test them for quality, color, content, consistency, viscosity, acidity, or specific gravity.
+- Pour, dump, or load prescribed quantities of ingredients or products into cooking equipment, manually or using a hoist.
+- Listen for malfunction alarms, and shut down equipment and notify supervisors when necessary.
+- Notify or signal other workers to operate equipment or when processing is complete.
+- Turn valves or start pumps to add ingredients or drain products from equipment and to transfer products for storage, cooling, or further processing.
+- Admit required amounts of water, steam, cooking oils, or compressed air into equipment, such as by opening water valves to cool mixtures to the desired consistency.
+- Activate agitators and paddles to mix or stir ingredients, stopping machines when ingredients are thoroughly mixed.
+- Operate auxiliary machines and equipment, such as grinders, canners, and molding presses, to prepare or further process products.
+- Place products on conveyors or carts, and monitor product flow.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 35-2014.00 Cooks, Restaurant
+- 51-9193.00 Cooling and Freezing Equipment Operators and Tenders
+- 51-3091.00 Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- 51-3092.00 Food Batchmakers
+- 51-9051.00 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- 51-9023.00 Mixing and Blending Machine Setters, Operators, and Tenders
+- 51-9111.00 Packaging and Filling Machine Operators and Tenders
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+
+Source: https://www.onetonline.org/link/summary/51-3093.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

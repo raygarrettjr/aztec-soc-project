@@ -1,0 +1,28 @@
+SOC: 53-7051.00
+Title: Industrial Truck and Tractor Operators
+Description: Operate industrial trucks or tractors equipped to move materials around a warehouse, storage yard, factory, construction site, or similar location.
+
+Official O*NET Tasks:
+- Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.
+- Move controls to drive gasoline- or electric-powered trucks, cars, or tractors and transport materials between loading, processing, and storage areas.
+- Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.
+- Position lifting devices under, over, or around loaded pallets, skids, or boxes and secure material or products for transport to designated areas.
+- Inspect product load for accuracy and safely move it around the warehouse or facility to ensure timely and complete delivery.
+- Weigh materials or products and record weight or other production data on tags or labels.
+- Perform routine maintenance on vehicles or auxiliary equipment, such as cleaning, lubricating, recharging batteries, fueling, or replacing liquefied-gas tank.
+- Operate or tend automatic stacking, loading, packaging, or cutting machines.
+- Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.
+
+Official O*NET Related Occupations:
+- 53-7021.00 Crane and Tower Operators
+- 47-5022.00 Excavating and Loading Machine and Dragline Operators, Surface Mining
+- 53-7041.00 Hoist and Winch Operators
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 47-5044.00 Loading and Moving Machine Operators, Underground Mining
+- 49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines
+- 47-2073.00 Operating Engineers and Other Construction Equipment Operators
+- 47-2072.00 Pile Driver Operators
+- 49-9096.00 Riggers
+- 53-7121.00 Tank Car, Truck, and Ship Loaders
+
+Source: https://www.onetonline.org/link/summary/53-7051.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

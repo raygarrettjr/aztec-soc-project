@@ -1,0 +1,33 @@
+SOC: 35-9021.00
+Title: Dishwashers
+Description: Clean dishes, kitchen, food preparation equipment, or utensils.
+
+Official O*NET Tasks:
+- Wash dishes, glassware, flatware, pots, or pans, using dishwashers or by hand.
+- Maintain kitchen work areas, equipment, or utensils in clean and orderly condition.
+- Place clean dishes, utensils, or cooking equipment in storage areas.
+- Sweep or scrub floors.
+- Stock supplies, such as food or utensils, in serving stations, cupboards, refrigerators, or salad bars.
+- Clean or prepare various foods for cooking or serving.
+- Sort and remove trash, placing it in designated pickup areas.
+- Transfer supplies or equipment between storage and work areas, by hand or using hand trucks.
+- Receive and store supplies.
+- Clean garbage cans with water or steam.
+- Load or unload trucks that deliver or pick up food or supplies.
+- Prepare and package individual place settings.
+- Set up banquet tables.
+- Clean and sanitize the dining area, including tables.
+
+Official O*NET Related Occupations:
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-2021.00 Food Preparation Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 37-2011.00 Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+- 51-6011.00 Laundry and Dry-Cleaning Workers
+- 37-2012.00 Maids and Housekeeping Cleaners
+
+Source: https://www.onetonline.org/link/summary/35-9021.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

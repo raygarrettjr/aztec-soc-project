@@ -1,0 +1,31 @@
+SOC: 53-7064.00
+Title: Packers and Packagers, Hand
+Description: Pack or package by hand a wide variety of products and materials.
+
+Official O*NET Tasks:
+- Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.
+- Measure, weigh, and count products and materials.
+- Record product, packaging, and order information on specified forms and records.
+- Seal containers or materials, using glues, fasteners, nails, and hand tools.
+- Assemble, line, and pad cartons, crates, and containers, using hand tools.
+- Obtain, move, and sort products, materials, containers, and orders, using hand tools.
+- Mark and label containers, container tags, or products, using marking tools.
+- Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.
+- Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.
+- Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.
+- Load materials and products into package processing equipment.
+- Transport packages to customers' vehicles.
+
+Official O*NET Related Occupations:
+- 51-9191.00 Adhesive Bonding Machine Operators and Tenders
+- 51-9031.00 Cutters and Trimmers, Hand
+- 51-9032.00 Cutting and Slicing Machine Setters, Operators, and Tenders
+- 45-2041.00 Graders and Sorters, Agricultural Products
+- 51-9198.00 Helpers--Production Workers
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 53-7063.00 Machine Feeders and Offbearers
+- 51-9111.00 Packaging and Filling Machine Operators and Tenders
+- 51-9196.00 Paper Goods Machine Setters, Operators, and Tenders
+- 43-5111.00 Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+
+Source: https://www.onetonline.org/link/summary/53-7064.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)
