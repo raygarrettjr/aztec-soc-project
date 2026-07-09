@@ -159,16 +159,33 @@ def iso_date(v):
         return None
 
 
-def fetch_today_feed():
-    today = datetime.date.today().isoformat()
-    url = f"https://api.seasonaljobs.dol.gov/datahub-search/sjCaseData/zip/h2b/{today}"
-    print(f"Downloading {url} ...")
-    resp = requests.get(url, timeout=60)
-    resp.raise_for_status()
-    with zipfile.ZipFile(io.BytesIO(resp.content)) as zf:
-        json_name = [n for n in zf.namelist() if n.endswith(".json")][0]
-        with zf.open(json_name) as f:
-            return json.load(f)
+def fetch_today_feed(max_days_back=10):
+    """
+    The feed URL is dated (e.g. .../h2b/2026-07-08), but the exact date DOL has
+    actually published isn't guaranteed to be "today" -- there can be a
+    publish-time lag, timezone offset (DOL updates at midnight Eastern; this
+    runs in UTC), or weekend/holiday gaps. Try today first, then walk backward
+    a few days until one actually resolves, rather than assuming today's date
+    always exists.
+    """
+    last_error = None
+    for days_back in range(max_days_back):
+        day = (datetime.date.today() - datetime.timedelta(days=days_back)).isoformat()
+        url = f"https://api.seasonaljobs.dol.gov/datahub-search/sjCaseData/zip/h2b/{day}"
+        print(f"Trying {url} ...")
+        resp = requests.get(url, timeout=60)
+        if resp.status_code == 404:
+            last_error = f"404 for {day}"
+            continue
+        resp.raise_for_status()
+        print(f"Found feed dated {day}.")
+        with zipfile.ZipFile(io.BytesIO(resp.content)) as zf:
+            json_name = [n for n in zf.namelist() if n.endswith(".json")][0]
+            with zf.open(json_name) as f:
+                return json.load(f)
+    raise RuntimeError(
+        f"No feed file found in the last {max_days_back} days. Last error: {last_error}"
+    )
 
 
 def to_row(r):
