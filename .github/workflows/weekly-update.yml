@@ -1,0 +1,34 @@
+name: Weekly H-2B Feed Update
+
+# Pulls the current 20-day seasonaljobs.dol.gov feed, filters to our 26 target
+# SOC codes, and upserts into Supabase -- runs in GitHub's cloud, so it fires
+# on schedule regardless of whether any local machine is on.
+#
+# Requires a repo secret named SUPABASE_DB_URL (Settings -> Secrets and
+# variables -> Actions -> New repository secret). See README.md for details.
+
+on:
+  schedule:
+    # Every Monday at 08:00 UTC. Adjust as needed -- cron is in UTC, not local time.
+    - cron: '0 8 * * 1'
+  workflow_dispatch: {}  # adds a manual "Run workflow" button in the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install psycopg2-binary requests
+
+      - name: Run weekly update
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: python update_from_feed.py
