@@ -16,6 +16,14 @@ ETA-9141 (prevailing wage), the SWA job order, and ETA-9142B (H-2B application) 
 - `update_from_feed.py` -- weekly incremental updater, run automatically via GitHub Actions (see below)
 - `.github/workflows/weekly-update.yml` -- the GitHub Actions workflow that runs
   `update_from_feed.py` on a weekly schedule, in GitHub's cloud
+- `naics_reference.csv` -- NAICS industry code -> official title lookup for all 275
+  distinct NAICS codes appearing in `h2b_cases`. Built for a future interface feature:
+  letting a filer pick an industry by name (e.g. "Landscaping Services") from a
+  dropdown scoped to whatever NAICS codes actually appear for the selected SOC, rather
+  than typing a bare code. Sourced from the Census Bureau's official 2022 NAICS
+  structure (via Ask Kodiak's Census-sourced data) plus individual verification for
+  codes retired/renumbered in the 2022 revision -- every entry confirmed against a
+  live authoritative source, none from unverified general knowledge.
 - `onet_reference/` -- 71 small text files pulled from O*NET OnLine (US Dept of
   Labor/ETA, CC BY 4.0): one for each of the 26 target SOC codes (e.g.
   `37-3011.00.txt`), plus 45 more for SOC codes O*NET itself flagged as related to two

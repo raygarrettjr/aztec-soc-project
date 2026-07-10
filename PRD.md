@@ -91,6 +91,8 @@ Handoff/status log:   PROJECT_STATUS.md
 O*NET reference:      onet_reference/{SOC_CODE}.txt (71 files: our 26 target codes +
                       45 O*NET-flagged related codes; official task lists +
                       related occupations, bundled into the skill too)
+NAICS reference:      naics_reference.csv (275 codes -> official titles, for a future
+                      SOC+NAICS picklist interface input)
 Skill (packaged):     h2b-wage-lookup.skill (built from a SKILL.md, not stored in this repo)
 Obsolete (history):   load_to_supabase.py, backfill_zip_and_duties.py
 ```
