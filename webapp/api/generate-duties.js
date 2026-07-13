@@ -154,11 +154,18 @@ module.exports = async (req, res) => {
       return res.status(500).json({ error: "ANTHROPIC_API_KEY is not set in this environment's variables." });
     }
     const client = new Anthropic({ apiKey });
+    // Claude Sonnet 5 defaults to adaptive thinking at effort: "high" whenever
+    // output_config isn't specified, which was silently eating the entire
+    // max_tokens budget on internal reasoning and leaving nothing for the
+    // actual answer text (stop_reason: "max_tokens", only a "thinking" block
+    // returned). "medium" keeps some of that reasoning quality for this fairly
+    // structured task while leaving reliable headroom for the answer itself.
     const msg = await client.messages.create({
       model: MODEL,
       max_tokens: Number(process.env.MAX_OUTPUT_TOKENS || 8000),
       system: SYSTEM_PROMPT,
       messages: [{ role: "user", content: userMessage }],
+      output_config: { effort: process.env.MODEL_EFFORT || "medium" },
     });
 
     // Diagnostic logging (visible in Vercel's function logs), cheap to leave
