@@ -164,4 +164,23 @@ module.exports = async (req, res) => {
     // Diagnostic logging (visible in Vercel's function logs), cheap to leave
     // in during the beta: tells us the stop reason and what block types came
     // back, which is the fastest way to see why an output might be empty.
-    console.log
+    console.log(
+      "generate-duties: stop_reason=%s content_block_types=%s usage=%s",
+      msg.stop_reason,
+      JSON.stringify((msg.content || []).map((c) => c.type)),
+      JSON.stringify(msg.usage)
+    );
+
+    const outputText = msg.content.map((c) => (c.type === "text" ? c.text : "")).join("");
+
+    if (!outputText.trim()) {
+      return res.status(502).json({
+        error: `Model returned no text content (stop_reason: ${msg.stop_reason}, block types: ${(msg.content || []).map((c) => c.type).join(", ") || "none"}). This usually means the response was cut off before any answer text was produced; try again, and if it keeps happening the max_tokens budget likely needs to be raised.`,
+      });
+    }
+
+    return res.status(200).json({ output: outputText });
+  } catch (err) {
+    return res.status(500).json({ error: String(err.message || err) });
+  }
+};
