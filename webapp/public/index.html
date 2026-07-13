@@ -219,24 +219,12 @@ generateBtn.addEventListener('click', async () => {
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || 'Generation failed.');
 
-    outputEl.innerHTML = marked.parse(data.output || '');
-    outputCard.style.display = 'block';
-    statusEl.textContent = '';
-  } catch (err) {
-    errorEl.textContent = 'Error: ' + err.message;
-    statusEl.textContent = '';
-  } finally {
-    generateBtn.disabled = false;
-  }
-});
+    // Temporary diagnostic: prints straight to the browser Console tab so we
+    // can see, with zero ambiguity, whether the client actually received the
+    // generated text. Safe to remove once the blank-output bug is confirmed fixed.
+    console.log('generate-duties response length:', (data.output || '').length);
+    console.log('generate-duties response preview:', (data.output || '').slice(0, 200));
 
-copyBtn.addEventListener('click', () => {
-  navigator.clipboard.writeText(outputEl.innerText).then(() => {
-    copyBtn.textContent = 'Copied!';
-    setTimeout(() => (copyBtn.textContent = 'Copy to clipboard'), 1500);
-  });
-});
-</script>
-
-</body>
-</html>
+    if (!data.output || !data.output.trim()) {
+      errorEl.textContent = 'Error: server returned an empty response body (see Console tab for details).';
+    
