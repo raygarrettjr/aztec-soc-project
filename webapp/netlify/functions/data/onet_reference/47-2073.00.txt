@@ -1,0 +1,45 @@
+SOC: 47-2073.00
+Title: Operating Engineers and Other Construction Equipment Operators
+Description: Operate one or several types of power construction equipment, such as motor graders, bulldozers, scrapers, compressors, pumps, derricks, shovels, tractors, or front-end loaders to excavate, move, and grade earth, erect structures, or pour concrete or other hard surface pavement. May repair and maintain equipment in addition to other duties.
+
+Official O*NET Tasks:
+- Learn and follow safety regulations.
+- Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.
+- Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.
+- Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.
+- Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+- Locate underground services, such as pipes or wires, prior to beginning work.
+- Signal operators to guide movement of tractor-drawn machines.
+- Repair and maintain equipment, making emergency adjustments or assisting with major repairs as necessary.
+- Load and move dirt, rocks, equipment, or other materials, using trucks, crawler tractors, power cranes, shovels, graders, or related equipment.
+- Drive and maneuver equipment equipped with blades in successive passes over working areas to remove topsoil, vegetation, or rocks or to distribute and level earth or terrain.
+- Operate tractors or bulldozers to perform such tasks as clearing land, mixing sludge, trimming backfills, or building roadways or parking lots.
+- Monitor operations to ensure that health and safety standards are met.
+- Connect hydraulic hoses, belts, mechanical linkages, or power takeoff shafts to tractors.
+- Select and fasten bulldozer blades or other attachments to tractors, using hitches.
+- Operate loaders to pull out stumps, rip asphalt or concrete, rough-grade properties, bury refuse, or perform general cleanup.
+- Operate equipment to demolish or remove debris or to remove snow from streets, roads, or parking lots.
+- Keep records of material or equipment usage or problems encountered.
+- Adjust handwheels and depress pedals to control attachments, such as blades, buckets, scrapers, or swing booms.
+- Check fuel supplies at sites to ensure adequate availability.
+- Talk to clients and study instructions, plans, or diagrams to establish work requirements.
+- Drive tractor-trailer trucks to move equipment from site to site.
+- Push other equipment when extra traction or assistance is required.
+- Operate road watering, oiling, or rolling equipment, or street sealing equipment, such as chip spreaders.
+- Operate compactors, scrapers, or rollers to level, compact, or cover refuse at disposal grounds.
+- Test atmosphere for adequate oxygen or explosive conditions when working in confined spaces.
+- Turn valves to control air or water output of compressors or pumps.
+
+Official O*NET Related Occupations:
+- 47-2061.00 Construction Laborers
+- 47-5041.00 Continuous Mining Machine Operators
+- 53-7021.00 Crane and Tower Operators
+- 47-5022.00 Excavating and Loading Machine and Dragline Operators, Surface Mining
+- 53-7041.00 Hoist and Winch Operators
+- 53-7051.00 Industrial Truck and Tractor Operators
+- 49-9044.00 Millwrights
+- 49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines
+- 47-2071.00 Paving, Surfacing, and Tamping Equipment Operators
+- 47-2072.00 Pile Driver Operators
+
+Source: https://www.onetonline.org/link/summary/47-2073.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Aztec Labor — Job Duties Suggestion Tool (Beta)</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+<style>
+  :root {
+    --navy: #1F3864;
+    --blue: #2E5395;
+    --border: #d9dde3;
+    --bg: #f7f8fa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--bg);
+    color: #222;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: var(--navy);
+    color: white;
+    padding: 20px 32px;
+  }
+  header h1 { margin: 0; font-size: 22px; }
+  header p { margin: 4px 0 0; font-size: 14px; color: #cbd5e6; }
+  main {
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 16px 60px;
+  }
+  .card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-bottom: 20px;
+  }
+  label { display: block; font-weight: bold; margin-bottom: 6px; font-size: 14px; }
+  select, button {
+    font-family: inherit;
+    font-size: 14px;
+    padding: 9px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+  }
+  select { width: 100%; margin-bottom: 16px; background: white; }
+  button {
+    background: var(--blue);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px 22px;
+  }
+  button:disabled { background: #9aa7bd; cursor: not-allowed; }
+  #status { margin-top: 12px; font-size: 13px; color: #666; }
+  #error { margin-top: 12px; font-size: 13px; color: #b3261e; white-space: pre-wrap; }
+  #output {
+    line-height: 1.5;
+    font-size: 15px;
+  }
+  #output h1 { font-size: 22px; color: var(--navy); }
+  #output h2 { font-size: 18px; color: var(--blue); margin-top: 24px; }
+  #output h3 { font-size: 16px; color: var(--blue); margin-top: 18px; }
+  #output blockquote {
+    border-left: 3px solid var(--blue);
+    margin: 10px 0;
+    padding: 6px 14px;
+    background: #f0f4fa;
+    color: #333;
+  }
+  #output code { background: #eee; padding: 1px 4px; border-radius: 3px; }
+  #output table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+  #output th, #output td { border: 1px solid var(--border); padding: 6px 10px; font-size: 13px; text-align: left; }
+  #output th { background: #eef1f6; }
+  .hint { font-size: 12px; color: #777; margin-top: -10px; margin-bottom: 16px; }
+  .copy-btn { margin-top: 10px; background: white; color: var(--blue); border: 1px solid var(--blue); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Job Duties Suggestion Tool (Beta)</h1>
+  <p>Select an occupation and, if useful, an industry context, to generate a suggested job duty write-up grounded in real filings and O*NET's official reference data.</p>
+</header>
+
+<main>
+  <div class="card">
+    <label for="soc-select">Occupation (SOC code)</label>
+    <select id="soc-select">
+      <option value="">Select an occupation...</option>
+    </select>
+
+    <label for="naics-select">Industry context (optional)</label>
+    <select id="naics-select" disabled>
+      <option value="">Select an occupation first...</option>
+    </select>
+    <p class="hint">Only needed if this occupation spans meaningfully different business contexts. Leave on "All industries" if unsure.</p>
+
+    <button id="generate-btn" disabled>Generate suggestion</button>
+    <div id="status"></div>
+    <div id="error"></div>
+  </div>
+
+  <div class="card" id="output-card" style="display:none;">
+    <div id="output"></div>
+    <button class="copy-btn" id="copy-btn">Copy to clipboard</button>
+  </div>
+</main>
+
+<script>
+const socSelect = document.getElementById('soc-select');
+const naicsSelect = document.getElementById('naics-select');
+const generateBtn = document.getElementById('generate-btn');
+const statusEl = document.getElementById('status');
+const errorEl = document.getElementById('error');
+const outputCard = document.getElementById('output-card');
+const outputEl = document.getElementById('output');
+const copyBtn = document.getElementById('copy-btn');
+
+const TARGET_SOCS = [
+  { soc_code: "35-1012.00", soc_title: "First-Line Supervisors of Food Preparation and Serving Workers" },
+  { soc_code: "35-2011.00", soc_title: "Cooks, Fast Food" },
+  { soc_code: "35-2014.00", soc_title: "Cooks, Restaurant" },
+  { soc_code: "35-2015.00", soc_title: "Cooks, Short Order" },
+  { soc_code: "35-2021.00", soc_title: "Food Preparation Workers" },
+  { soc_code: "35-3011.00", soc_title: "Bartenders" },
+  { soc_code: "35-3023.00", soc_title: "Fast Food and Counter Workers" },
+  { soc_code: "35-3031.00", soc_title: "Waiters and Waitresses" },
+  { soc_code: "35-9011.00", soc_title: "Dining Room and Cafeteria Attendants and Bartender Helpers" },
+  { soc_code: "35-9021.00", soc_title: "Dishwashers" },
+  { soc_code: "37-2011.00", soc_title: "Janitors and Cleaners, Except Maids and Housekeeping Cleaners" },
+  { soc_code: "37-2012.00", soc_title: "Maids and Housekeeping Cleaners" },
+  { soc_code: "37-3011.00", soc_title: "Landscaping and Groundskeeping Workers" },
+  { soc_code: "37-3012.00", soc_title: "Pesticide Handlers, Sprayers, and Applicators, Vegetation" },
+  { soc_code: "39-2021.00", soc_title: "Animal Caretakers" },
+  { soc_code: "39-3091.00", soc_title: "Amusement and Recreation Attendants" },
+  { soc_code: "43-4081.00", soc_title: "Hotel, Motel, and Resort Desk Clerks" },
+  { soc_code: "45-4011.00", soc_title: "Forest and Conservation Workers" },
+  { soc_code: "47-2051.00", soc_title: "Cement Masons and Concrete Finishers" },
+  { soc_code: "47-2061.00", soc_title: "Construction Laborers" },
+  { soc_code: "47-3016.00", soc_title: "Helpers--Roofers" },
+  { soc_code: "49-9098.00", soc_title: "Helpers--Installation, Maintenance, and Repair Workers" },
+  { soc_code: "51-3022.00", soc_title: "Meat, Poultry, and Fish Cutters and Trimmers" },
+  { soc_code: "53-3032.00", soc_title: "Heavy and Tractor-Trailer Truck Drivers" },
+  { soc_code: "53-7062.00", soc_title: "Laborers and Freight, Stock, and Material Movers, Hand" },
+  { soc_code: "53-7064.00", soc_title: "Packers and Packagers, Hand" }
+];
+
+TARGET_SOCS.sort((a, b) => a.soc_title.localeCompare(b.soc_title)).forEach(s => {
+  const opt = document.createElement('option');
+  opt.value = s.soc_code;
+  opt.textContent = `${s.soc_title} (${s.soc_code})`;
+  socSelect.appendChild(opt);
+});
+
+socSelect.addEventListener('change', async () => {
+  const soc = socSelect.value;
+  naicsSelect.innerHTML = '';
+  naicsSelect.disabled = true;
+  generateBtn.disabled = true;
+  errorEl.textContent = '';
+
+  if (!soc) {
+    naicsSelect.innerHTML = '<option value="">Select an occupation first...</option>';
+    return;
+  }
+
+  naicsSelect.innerHTML = '<option value="">Loading industry options...</option>';
+  try {
+    const res = await fetch(`/.netlify/functions/naics-options?soc=${encodeURIComponent(soc)}`);
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Failed to load industry options.');
+
+    naicsSelect.innerHTML = '';
+    const allOpt = document.createElement('option');
+    allOpt.value = '';
+    allOpt.textContent = 'All industries (no NAICS filter)';
+    naicsSelect.appendChild(allOpt);
+
+    (data.options || []).forEach(o => {
+      const opt = document.createElement('option');
+      opt.value = JSON.stringify(o.codes);
+      opt.textContent = `${o.title} (${o.count} filings)`;
+      naicsSelect.appendChild(opt);
+    });
+
+    naicsSelect.disabled = false;
+    generateBtn.disabled = false;
+  } catch (err) {
+    errorEl.textContent = 'Could not load industry options: ' + err.message;
+    naicsSelect.innerHTML = '<option value="">All industries (no NAICS filter)</option>';
+    naicsSelect.disabled = false;
+    generateBtn.disabled = false;
+  }
+});
+
+generateBtn.addEventListener('click', async () => {
+  const soc = socSelect.value;
+  if (!soc) return;
+  const naicsVal = naicsSelect.value;
+  const naicsCodes = naicsVal ? JSON.parse(naicsVal) : null;
+
+  generateBtn.disabled = true;
+  outputCard.style.display = 'none';
+  errorEl.textContent = '';
+  statusEl.textContent = 'Pulling live filing data and generating suggestion... this can take 20-40 seconds.';
+
+  try {
+    const res = await fetch('/.netlify/functions/generate-duties', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ soc, naicsCodes }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Generation failed.');
+
+    outputEl.innerHTML = marked.parse(data.output || '');
+    outputCard.style.display = 'block';
+    statusEl.textContent = '';
+  } catch (err) {
+    errorEl.textContent = 'Error: ' + err.message;
+    statusEl.textContent = '';
+  } finally {
+    generateBtn.disabled = false;
+  }
+});
+
+copyBtn.addEventListener('click', () => {
+  navigator.clipboard.writeText(outputEl.innerText).then(() => {
+    copyBtn.textContent = 'Copied!';
+    setTimeout(() => (copyBtn.textContent = 'Copy to clipboard'), 1500);
+  });
+});
+</script>
+
+</body>
+</html>

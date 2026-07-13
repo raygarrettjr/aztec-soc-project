@@ -1,0 +1,13 @@
+{
+  "name": "aztec-h2b-duty-suggestion-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Short-term hosted interface for the Aztec H-2B job duties suggestion tool. Employees pick a SOC code and optional NAICS industry context; the app pulls live data from the aztec-h2b-data Supabase database and O*NET reference files, then calls the Anthropic API to generate a four-part suggestion following the h2b-wage-lookup skill's methodology.",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "pg": "^8.13.0"
+  }
+}

@@ -1,0 +1,276 @@
+naics_code,title
+1114,"Greenhouse, Nursery, and Floriculture Production"
+1129,Other Animal Production
+1132,Forest Nurseries and Gathering of Forest Products
+1151,Support Activities for Crop Production
+1153,Support Activities for Forestry
+2361,Residential Building Construction
+2362,Nonresidential Building Construction
+2371,Utility System Construction
+2379,Other Heavy and Civil Engineering Construction
+2381,"Foundation, Structure, and Building Exterior Contractors"
+2389,Other Specialty Trade Contractors
+3113,Sugar and Confectionery Product Manufacturing
+3116,Animal Slaughtering and Processing
+3117,Seafood Product Preparation and Packaging
+3279,Other Nonmetallic Mineral Product Manufacturing
+4441,Building Material and Supplies Dealers
+4442,Lawn and Garden Equipment and Supplies Retailers
+4451,Grocery and Convenience Retailers
+4452,Specialty Food Retailers
+4841,General Freight Trucking
+4842,Specialized Freight Trucking
+5311,Lessors of Real Estate
+5322,Consumer Goods Rental
+5324,Commercial and Industrial Machinery and Equipment Rental and Leasing
+5413,"Architectural, Engineering, and Related Services"
+5417,Scientific Research and Development Services
+5613,Employment Services
+5617,Services to Buildings and Dwellings
+7111,Performing Arts Companies
+7131,Amusement Parks and Arcades
+7139,Other Amusement and Recreation Industries
+7211,Traveler Accommodation
+7223,Special Food Services
+7224,Drinking Places (Alcoholic Beverages)
+7225,Restaurants and Other Eating Places
+11133,Noncitrus Fruit and Tree Nut Farming
+11142,Nursery and Floriculture Production
+11234,Poultry Hatcheries
+11292,Horses and Other Equine Production
+11321,Forest Nurseries and Gathering of Forest Products
+11411,Fishing
+11531,Support Activities for Forestry
+21231,Stone Mining and Quarrying
+22131,Water Supply and Irrigation Systems
+23611,Residential Building Construction
+23621,Industrial Building Construction
+23622,Commercial and Institutional Building Construction
+23713,Power and Communication Line and Related Structures Construction
+23731,"Highway, Street, and Bridge Construction"
+23799,Other Heavy and Civil Engineering Construction
+23811,Poured Concrete Foundation and Structure Contractors
+23812,Structural Steel and Precast Concrete Contractors
+23814,Masonry Contractors
+23816,Roofing Contractors
+23817,Siding Contractors
+23822,"Plumbing, Heating, and Air-Conditioning Contractors"
+23834,Tile and Terrazzo Contractors
+23839,Other Building Finishing Contractors
+23891,Site Preparation Contractors
+23899,All Other Specialty Trade Contractors
+31171,Seafood Product Preparation and Packaging
+32121,"Veneer, Plywood, and Engineered Wood Product Manufacturing"
+32192,Wood Container and Pallet Manufacturing
+32223,Stationery Product Manufacturing
+32412,"Asphalt Paving, Roofing, and Saturated Materials Manufacturing"
+32518,Other Basic Inorganic Chemical Manufacturing
+32732,Ready-Mix Concrete Manufacturing
+32739,Other Concrete Product Manufacturing
+33399,All Other General Purpose Machinery Manufacturing
+33992,Sporting and Athletic Goods Manufacturing
+42374,Refrigeration Equipment and Supplies Merchant Wholesalers
+42446,Fish and Seafood Merchant Wholesalers
+42451,Grain and Field Bean Merchant Wholesalers
+42491,Farm Supplies Merchant Wholesalers
+42493,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
+44424,"Nursery, Garden Center, and Farm Supply Retailers"
+44511,Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+44512,Convenience Stores
+44523,Fruit and Vegetable Retailers
+44529,Other Specialty Food Retailers
+45322,"Gift, Novelty, and Souvenir Stores"
+45999,All Other Miscellaneous Retailers
+48411,"General Freight Trucking, Local"
+48421,Used Household and Office Goods Moving
+48422,"Specialized Freight (except Used Goods) Trucking, Local"
+48849,Other Support Activities for Road Transportation
+49319,Other Warehousing and Storage
+53112,Lessors of Nonresidential Buildings (except Miniwarehouses)
+53131,Real Estate Property Managers
+53139,Other Activities Related to Real Estate
+53228,Other Consumer Goods Rental
+53231,General Rental Centers
+54132,Landscape Architectural Services
+56131,Employment Placement Agencies and Executive Search Services
+56132,Temporary Help Services
+56152,Tour Operators
+56159,Other Travel Arrangement and Reservation Services
+56171,Exterminating and Pest Control Services
+56172,Janitorial Services
+56173,Landscaping Services
+56179,Other Services to Buildings and Dwellings
+56291,Remediation Services
+61162,Sports and Recreation Instruction
+71119,Other Performing Arts Companies
+71311,Amusement and Theme Parks
+71312,Amusement Arcades
+71391,Golf Courses and Country Clubs
+71392,Skiing Facilities
+71393,Marinas
+71394,Fitness and Recreational Sports Centers
+71399,All Other Amusement and Recreation Industries
+72111,Hotels (except Casino Hotels) and Motels
+72112,Casino Hotels
+72119,Other Traveler Accommodation
+72121,RV (Recreational Vehicle) Parks and Recreational Camps
+72231,Food Service Contractors
+72233,Mobile Food Services
+72241,Drinking Places (Alcoholic Beverages)
+72251,Restaurants and Other Eating Places
+81222,Cemeteries and Crematories
+81299,All Other Personal Services
+81399,Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)
+111421,Nursery and Tree Production
+112111,Beef Cattle Ranching and Farming
+112920,Horses and Other Equine Production
+114112,Shellfish Fishing
+115114,Postharvest Crop Activities (except Cotton Ginning)
+115115,Farm Labor Contractors and Crew Leaders
+115210,Support Activities for Animal Production
+115310,Support Activities for Forestry
+212311,Dimension Stone Mining and Quarrying
+212312,Crushed and Broken Limestone Mining and Quarrying
+212321,Construction Sand and Gravel Mining
+212323,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining"
+221310,Water Supply and Irrigation Systems
+236115,New Single-Family Housing Construction (except For-Sale Builders)
+236116,New Multifamily Housing Construction (except For-Sale Builders)
+236118,Residential Remodelers
+236210,Industrial Building Construction
+236220,Commercial and Institutional Building Construction
+237110,Water and Sewer Line and Related Structures Construction
+237120,Oil and Gas Pipeline and Related Structures Construction
+237130,Power and Communication Line and Related Structures Construction
+237310,"Highway, Street, and Bridge Construction"
+237990,Other Heavy and Civil Engineering Construction
+238110,Poured Concrete Foundation and Structure Contractors
+238120,Structural Steel and Precast Concrete Contractors
+238130,Framing Contractors
+238140,Masonry Contractors
+238160,Roofing Contractors
+238170,Siding Contractors
+238190,"Other Foundation, Structure, and Building Exterior Contractors"
+238210,Electrical Contractors and Other Wiring Installation Contractors
+238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+238290,Other Building Equipment Contractors
+238310,Drywall and Insulation Contractors
+238320,Painting and Wall Covering Contractors
+238340,Tile and Terrazzo Contractors
+238910,Site Preparation Contractors
+238990,All Other Specialty Trade Contractors
+311314,Cane Sugar Manufacturing
+311421,Fruit and Vegetable Canning
+311520,Ice Cream and Frozen Dessert Manufacturing
+311612,Meat Processed from Carcasses
+311615,Poultry Processing
+311710,Seafood Product Preparation and Packaging
+311911,Roasted Nuts and Peanut Butter Manufacturing
+321211,Hardwood Veneer and Plywood Manufacturing
+321215,Engineered Wood Member Manufacturing
+321912,"Cut Stock, Resawing Lumber, and Planing"
+321992,Prefabricated Wood Building Manufacturing
+323113,Commercial Screen Printing
+324121,Asphalt Paving Mixture and Block Manufacturing
+327320,Ready-Mix Concrete Manufacturing
+327331,Concrete Block and Brick Manufacturing
+327390,Other Concrete Product Manufacturing
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing
+332311,Prefabricated Metal Building and Component Manufacturing
+333120,Construction Machinery Manufacturing
+333414,Heating Equipment (except Warm Air Furnaces) Manufacturing
+333519,Rolling Mill and Other Metalworking Machinery Manufacturing
+333998,All Other Miscellaneous General Purpose Machinery Manufacturing
+336611,Ship Building and Repairing
+339999,All Other Miscellaneous Manufacturing
+423210,Furniture Merchant Wholesalers
+423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers"
+424410,General Line Grocery Merchant Wholesalers
+424460,Fish and Seafood Merchant Wholesalers
+424480,Fresh Fruit and Vegetable Merchant Wholesalers
+424510,Grain and Field Bean Merchant Wholesalers
+424690,Other Chemical and Allied Products Merchant Wholesalers
+424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
+441222,Boat Dealers
+444220,"Nursery, Garden Center, and Farm Supply Stores"
+444240,"Nursery, Garden Center, and Farm Supply Retailers"
+445110,Supermarkets and Other Grocery Retailers (except Convenience Retailers)
+445220,Fish and Seafood Markets
+445230,Fruit and Vegetable Retailers
+445240,Meat Retailers
+445250,Fish and Seafood Retailers
+445292,Confectionery and Nut Retailers
+445299,All Other Specialty Food Stores
+447110,Gasoline Stations with Convenience Stores
+453220,"Gift, Novelty, and Souvenir Stores"
+455219,All Other General Merchandise Retailers
+458310,Jewelry Retailers
+459420,"Gift, Novelty, and Souvenir Retailers"
+483114,Coastal and Great Lakes Passenger Transportation
+484110,"General Freight Trucking, Local"
+484121,"General Freight Trucking, Long-Distance, Truckload"
+484210,Used Household and Office Goods Moving
+484220,"Specialized Freight (except Used Goods) Trucking, Local"
+487110,"Scenic and Sightseeing Transportation, Land"
+488490,Other Support Activities for Road Transportation
+488991,Packing and Crating
+531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+531190,Lessors of Other Real Estate Property
+531311,Residential Property Managers
+531312,Nonresidential Property Managers
+531390,Other Activities Related to Real Estate
+532284,Recreational Goods Rental
+532289,All Other Consumer Goods Rental
+532310,General Rental Centers
+541320,Landscape Architectural Services
+541380,Testing Laboratories and Services
+541410,Interior Design Services
+541611,Administrative Management and General Management Consulting Services
+541620,Environmental Consulting Services
+541940,Veterinary Services
+561110,Office Administrative Services
+561311,Employment Placement Agencies
+561320,Temporary Help Services
+561330,Professional Employer Organizations
+561520,Tour Operators
+561710,Exterminating and Pest Control Services
+561720,Janitorial Services
+561730,Landscaping Services
+561790,Other Services to Buildings and Dwellings
+562111,Solid Waste Collection
+562920,Materials Recovery Facilities
+562991,Septic Tank and Related Services
+562998,All Other Miscellaneous Waste Management Services
+623210,Residential Intellectual and Developmental Disability Facilities
+711190,Other Performing Arts Companies
+711212,Racetracks
+711219,Other Spectator Sports
+712120,Historical Sites
+712130,Zoos and Botanical Gardens
+712190,Nature Parks and Other Similar Institutions
+713110,Amusement and Theme Parks
+713120,Amusement Arcades
+713910,Golf Courses and Country Clubs
+713930,Marinas
+713940,Fitness and Recreational Sports Centers
+713990,All Other Amusement and Recreation Industries
+721110,Hotels (except Casino Hotels) and Motels
+721120,Casino Hotels
+721191,Bed-and-Breakfast Inns
+721199,All Other Traveler Accommodation
+721211,RV (Recreational Vehicle) Parks and Campgrounds
+721214,Recreational and Vacation Camps (except Campgrounds)
+721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+722310,Food Service Contractors
+722320,Caterers
+722330,Mobile Food Services
+722410,Drinking Places (Alcoholic Beverages)
+722511,Full-Service Restaurants
+722513,Limited-Service Restaurants
+722514,"Cafeterias, Grill Buffets, and Buffets"
+722515,Snack and Nonalcoholic Beverage Bars
+811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+812332,Industrial Launderers
+813110,Religious Organizations
+813990,Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)
+924120,Administration of Conservation Programs

@@ -1,0 +1,42 @@
+SOC: 51-6011.00
+Title: Laundry and Dry-Cleaning Workers
+Description: Operate or tend washing or dry-cleaning machines to wash or dry-clean industrial or household articles, such as cloth garments, suede, leather, furs, blankets, draperies, linens, rugs, and carpets. Includes spotters and dyers of these articles.
+
+Official O*NET Tasks:
+- Load articles into washers or dry-cleaning machines, or direct other workers to perform loading.
+- Start washers, dry cleaners, driers, or extractors, and turn valves or levers to regulate machine processes and the volume of soap, detergent, water, bleach, starch, and other additives.
+- Operate extractors and driers, or direct their operation.
+- Remove items from washers or dry-cleaning machines, or direct other workers to do so.
+- Sort and count articles removed from dryers, and fold, wrap, or hang them.
+- Clean machine filters, and lubricate equipment.
+- Examine and sort into lots articles to be cleaned, according to color, fabric, dirt content, and cleaning technique required.
+- Receive and mark articles for laundry or dry cleaning with identifying code numbers or names, using hand or machine markers.
+- Apply bleaching powders to spots and spray them with steam to remove stains from fabrics that do not respond to other cleaning solvents.
+- Determine spotting procedures and proper solvents, based on fabric and stain types.
+- Spray steam, water, or air over spots to flush out chemicals, dry material, raise naps, or brighten colors.
+- Pre-soak, sterilize, scrub, spot-clean, and dry contaminated or stained articles, using neutralizer solutions and portable machines.
+- Mix bleaching agents with hot water in vats, and soak material until it is bleached.
+- Mix and add detergents, dyes, bleaches, starches, and other solutions and chemicals to clean, color, dry, or stiffen articles.
+- Sprinkle chemical solvents over stains, and pat areas with brushes or sponges to remove stains.
+- Match sample colors, applying knowledge of bleaching agent and dye properties, and types, construction, conditions, and colors of articles.
+- Inspect soiled articles to determine sources of stains, to locate color imperfections, and to identify items requiring special treatment.
+- Operate machines that comb, dry and polish furs, clean, sterilize and fluff feathers and blankets, or roll and package towels.
+- Iron or press articles, fabrics, and furs, using hand irons or pressing machines.
+- Hang curtains, drapes, blankets, pants, and other garments on stretch frames to dry.
+- Identify articles' fabrics and original dyes by sight and touch, or by testing samples with fire or chemical reagents.
+- Immerse articles in bleaching baths to strip colors.
+- Spread soiled articles on work tables, and position stained portions over vacuum heads or on marble slabs.
+
+Official O*NET Related Occupations:
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 51-9031.00 Cutters and Trimmers, Hand
+- 53-7063.00 Machine Feeders and Offbearers
+- 37-2012.00 Maids and Housekeeping Cleaners
+- 53-7064.00 Packers and Packagers, Hand
+- 51-9123.00 Painting, Coating, and Decorating Workers
+- 51-6021.00 Pressers, Textile, Garment, and Related Materials
+- 51-6031.00 Sewing Machine Operators
+- 51-6061.00 Textile Bleaching and Dyeing Machine Operators and Tenders
+
+Source: https://www.onetonline.org/link/summary/51-6011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,33 @@
+SOC: 53-7062.00
+Title: Laborers and Freight, Stock, and Material Movers, Hand
+Description: Manually move freight, stock, luggage, or other materials, or perform other general labor. Includes all manual laborers not elsewhere classified.
+
+Official O*NET Tasks:
+- Maintain equipment storage areas to ensure that inventory is protected.
+- Read work orders or receive oral instructions to determine work assignments or material or equipment needs.
+- Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.
+- Install protective devices, such as bracing, padding, or strapping, to prevent shifting or damage to items being transported.
+- Sort cargo before loading and unloading.
+- Attach identifying tags to containers or mark them with identifying information.
+- Record numbers of units handled or moved, using daily production sheets or work tickets.
+- Attach slings, hooks, or other devices to lift cargo and guide loads.
+- Carry needed tools or supplies from storage or trucks and return them after use.
+- Pack containers and re-pack damaged containers.
+- Assemble product containers or crates, using hand tools and precut lumber.
+- Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.
+- Connect electrical equipment to power sources so that it can be tested before use.
+- Inspect products for damage or leaks.
+
+Official O*NET Related Occupations:
+- 53-7011.00 Conveyor Operators and Tenders
+- 51-9198.00 Helpers--Production Workers
+- 53-7041.00 Hoist and Winch Operators
+- 53-7051.00 Industrial Truck and Tractor Operators
+- 53-7063.00 Machine Feeders and Offbearers
+- 49-9043.00 Maintenance Workers, Machinery
+- 51-9111.00 Packaging and Filling Machine Operators and Tenders
+- 53-7064.00 Packers and Packagers, Hand
+- 53-7062.04 Recycling and Reclamation Workers
+- 53-7121.00 Tank Car, Truck, and Ship Loaders
+
+Source: https://www.onetonline.org/link/summary/53-7062.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

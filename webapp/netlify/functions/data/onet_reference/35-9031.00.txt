@@ -1,0 +1,39 @@
+SOC: 35-9031.00
+Title: Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+Description: Welcome patrons, seat them at tables or in lounge, and help ensure quality of facilities and service.
+
+Official O*NET Tasks:
+- Provide guests with menus.
+- Greet guests and seat them at tables or in waiting areas.
+- Maintain contact with kitchen staff, management, serving staff, and customers to ensure that dining details are handled properly and customers' concerns are addressed.
+- Assign patrons to tables suitable for their needs and according to rotation so that servers receive an appropriate number of seatings.
+- Speak with patrons to ensure satisfaction with food and service, to respond to complaints, or to make conversation.
+- Inspect dining and serving areas to ensure cleanliness and proper setup.
+- Supervise and coordinate activities of dining room staff to ensure that patrons receive prompt and courteous service.
+- Answer telephone calls and respond to inquiries or transfer calls.
+- Assist other restaurant workers by serving food and beverages, or by bussing tables.
+- Inspect restrooms for cleanliness and availability of supplies, and clean restrooms when necessary.
+- Take and prepare to-go orders.
+- Inform patrons of establishment specialties and features.
+- Receive and record patrons' dining reservations.
+- Operate cash registers to accept payments for food and beverages.
+- Direct patrons to coatrooms and waiting areas, such as lounges.
+- Prepare cash receipts after establishments close, and make bank deposits.
+- Order or requisition supplies and equipment for tables and serving stations.
+- Hire, train, and supervise food and beverage service staff.
+- Confer with other staff to help plan establishments' menus.
+- Perform marketing and advertising services.
+
+Official O*NET Related Occupations:
+- 35-3023.01 Baristas
+- 35-3011.00 Bartenders
+- 41-9011.00 Demonstrators and Product Promoters
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 43-4081.00 Hotel, Motel, and Resort Desk Clerks
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 53-6061.00 Passenger Attendants
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-9031.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

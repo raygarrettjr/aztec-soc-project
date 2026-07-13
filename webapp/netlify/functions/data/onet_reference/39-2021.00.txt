@@ -1,0 +1,43 @@
+SOC: 39-2021.00
+Title: Animal Caretakers
+Description: Feed, water, groom, bathe, exercise, or otherwise provide care to promote and maintain the well-being of pets and other animals that are not raised for consumption, such as dogs, cats, race horses, ornamental fish or birds, zoo animals, and mice. Work in settings such as kennels, animal shelters, zoos, circuses, and aquariums. May keep records of feedings, treatments, and animals received or discharged. May clean, disinfect, and repair cages, pens, or fish tanks.
+
+Official O*NET Tasks:
+- Feed and water animals according to schedules and feeding instructions.
+- Provide treatment to sick or injured animals, or contact veterinarians to secure treatment.
+- Examine and observe animals to detect signs of illness, disease, or injury.
+- Mix food, liquid formulas, medications, or food supplements according to instructions, prescriptions, and knowledge of animal species.
+- Do facility laundry and clean, organize, maintain, and disinfect animal quarters, such as pens and stables, and equipment, such as saddles and bridles.
+- Exercise animals to maintain their physical and mental health.
+- Collect and record animal information, such as weight, size, physical condition, treatments received, medications given, and food intake.
+- Respond to questions from patrons, and provide information about animals, such as behavior, habitat, breeding habits, or facility activities.
+- Answer telephones and schedule appointments.
+- Advise pet owners on how to care for their pets' health.
+- Perform animal grooming duties, such as washing, brushing, clipping, and trimming coats, cutting nails, and cleaning ears.
+- Observe and caution children petting and feeding animals in designated areas to ensure the safety of humans and animals.
+- Clean and disinfect surgical equipment.
+- Find homes for stray or unwanted animals.
+- Discuss with clients their pets' grooming needs.
+- Transfer animals between enclosures to facilitate breeding, birthing, shipping, or rearrangement of exhibits.
+- Adjust controls to regulate specified temperature and humidity of animal quarters, nurseries, or exhibit areas.
+- Anesthetize and inoculate animals, according to instructions.
+- Install, maintain, and repair animal care facility equipment, such as infrared lights, feeding devices, and cages.
+- Train animals to perform certain tasks.
+- Order, unload, and store feed and supplies.
+- Sell pet food and supplies.
+- Scuba dive in aquariums to perform exhibit maintenance.
+- Train volunteers and facility staff.
+
+Official O*NET Related Occupations:
+- 45-2021.00 Animal Breeders
+- 33-9011.00 Animal Control Workers
+- 39-2011.00 Animal Trainers
+- 39-9011.00 Childcare Workers
+- 45-2093.00 Farmworkers, Farm, Ranch, and Aquacultural Animals
+- 31-1121.00 Home Health Aides
+- 31-1131.00 Nursing Assistants
+- 31-1122.00 Personal Care Aides
+- 31-9096.00 Veterinary Assistants and Laboratory Animal Caretakers
+- 29-2056.00 Veterinary Technologists and Technicians
+
+Source: https://www.onetonline.org/link/summary/39-2021.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

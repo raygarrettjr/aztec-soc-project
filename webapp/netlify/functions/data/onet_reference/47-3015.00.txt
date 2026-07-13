@@ -1,0 +1,34 @@
+SOC: 47-3015.00
+Title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+Description: Help plumbers, pipefitters, steamfitters, or pipelayers by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+Official O*NET Tasks:
+- Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.
+- Cut or drill holes in walls or floors to accommodate the passage of pipes.
+- Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.
+- Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.
+- Cut pipe and lift up to fitters.
+- Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.
+- Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.
+- Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.
+- Excavate and grade ditches, and lay and join pipe for water and sewer service.
+- Disassemble and remove damaged or worn pipe.
+- Clean shop, work area, and machines, using solvent and rags.
+- Install gas burners to convert furnaces from wood, coal, or oil.
+- Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.
+- Immerse pipe in chemical solution to remove dirt, oil, and scale.
+- Clean and renew steam traps.
+
+Official O*NET Related Occupations:
+- 47-2011.00 Boilermakers
+- 47-3011.00 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- 47-3012.00 Helpers--Carpenters
+- 47-3013.00 Helpers--Electricians
+- 47-5081.00 Helpers--Extraction Workers
+- 49-9098.00 Helpers--Installation, Maintenance, and Repair Workers
+- 47-3014.00 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- 47-3016.00 Helpers--Roofers
+- 47-2151.00 Pipelayers
+- 47-2152.00 Plumbers, Pipefitters, and Steamfitters
+
+Source: https://www.onetonline.org/link/summary/47-3015.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

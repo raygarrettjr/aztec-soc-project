@@ -1,0 +1,39 @@
+SOC: 43-4081.00
+Title: Hotel, Motel, and Resort Desk Clerks
+Description: Accommodate hotel, motel, and resort patrons by registering and assigning rooms to guests, issuing room keys or cards, transmitting and receiving messages, keeping records of occupied rooms and guests' accounts, making and confirming reservations, and presenting statements to and collecting payments from departing guests.
+
+Official O*NET Tasks:
+- Greet, register, and assign rooms to guests of hotels or motels.
+- Contact housekeeping or maintenance staff when guests report problems.
+- Issue room keys and escort instructions to bellhops.
+- Make and confirm reservations.
+- Verify customers' credit, and establish how the customer will pay for the accommodation.
+- Keep records of room availability and guests' accounts, manually or using computers.
+- Post charges, such as those for rooms, food, liquor, or telephone calls, to ledgers, manually or by using computers.
+- Review accounts and charges with guests during the check out process.
+- Record guest comments or complaints, referring customers to managers as necessary.
+- Compute bills, collect payments, and make change for guests.
+- Transmit and receive messages, using telephones or telephone switchboards.
+- Answer inquiries pertaining to hotel services, guest registration, and travel directions, or make recommendations regarding shopping, dining, or entertainment.
+- Advise housekeeping staff when rooms have been vacated and are ready for cleaning.
+- Perform bookkeeping activities, such as balancing accounts and conducting nightly audits.
+- Clean and maintain lobby and common areas, such as restocking supplies and watering plants.
+- Prepare for basic food service, such as setting up continental breakfast or coffee and tea supplies.
+- Date-stamp, sort, and rack incoming mail and messages.
+- Arrange tours, taxis, or restaurant reservations for customers.
+- Deposit guests' valuables in hotel safes or safe-deposit boxes.
+- Plan, schedule or supervise the work of other employees.
+
+Official O*NET Related Occupations:
+- 39-6011.00 Baggage Porters and Bellhops
+- 41-2011.00 Cashiers
+- 39-6012.00 Concierges
+- 41-2021.00 Counter and Rental Clerks
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 11-9081.00 Lodging Managers
+- 53-6061.00 Passenger Attendants
+- 43-4171.00 Receptionists and Information Clerks
+- 43-4181.00 Reservation and Transportation Ticket Agents and Travel Clerks
+
+Source: https://www.onetonline.org/link/summary/43-4081.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

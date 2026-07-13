@@ -1,0 +1,39 @@
+SOC: 35-2014.00
+Title: Cooks, Restaurant
+Description: Prepare, season, and cook dishes such as soups, meats, vegetables, or desserts in restaurants. May order supplies, keep records and accounts, price items on menu, or plan menu.
+
+Official O*NET Tasks:
+- Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.
+- Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.
+- Portion, arrange, and garnish food, and serve food to waiters or patrons.
+- Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.
+- Season and cook food according to recipes or personal judgment and experience.
+- Coordinate and supervise work of kitchen staff.
+- Bake, roast, broil, and steam meats, fish, vegetables, and other foods.
+- Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.
+- Turn or stir foods to ensure even cooking.
+- Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.
+- Substitute for or assist other cooks during emergencies or rush periods.
+- Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.
+- Bake breads, rolls, cakes, and pastries.
+- Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.
+- Keep records and accounts.
+- Prepare relishes and hors d'oeuvres.
+- Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.
+- Consult with supervisory staff to plan menus, taking into consideration factors such as costs and special event needs.
+- Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.
+- Plan and price menu items.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 51-3021.00 Butchers and Meat Cutters
+- 35-1011.00 Chefs and Head Cooks
+- 35-2011.00 Cooks, Fast Food
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2013.00 Cooks, Private Household
+- 35-2015.00 Cooks, Short Order
+- 51-3092.00 Food Batchmakers
+- 51-3093.00 Food Cooking Machine Operators and Tenders
+- 35-2021.00 Food Preparation Workers
+
+Source: https://www.onetonline.org/link/summary/35-2014.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

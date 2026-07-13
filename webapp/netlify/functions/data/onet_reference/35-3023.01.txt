@@ -1,0 +1,38 @@
+SOC: 35-3023.01
+Title: Baristas
+Description: Prepare or serve specialty coffee or other beverages. Serve food such as baked goods or sandwiches to patrons.
+
+Official O*NET Tasks:
+- Receive and process customer payments.
+- Prepare or serve hot or cold beverages, such as coffee, espresso drinks, blended coffees, or teas.
+- Take customer orders and convey them to other employees for preparation.
+- Clean or sanitize work areas, utensils, or equipment.
+- Describe menu items to customers, or suggest products that might appeal to them.
+- Clean service or seating areas.
+- Serve prepared foods, such as muffins, biscotti, or bagels.
+- Prepare or serve menu items, such as sandwiches or salads.
+- Set up or restock product displays.
+- Weigh, grind, or pack coffee beans for customers.
+- Stock customer service stations with paper products or beverage preparation items.
+- Wrap, label, or date food items for sale.
+- Provide customers with product details, such as coffee blend or preparation descriptions.
+- Take out garbage.
+- Order, receive, or stock supplies or retail products.
+- Slice fruits, vegetables, desserts, or meats for use in food service.
+- Check temperatures of freezers, refrigerators, or heating equipment to ensure proper functioning.
+- Demonstrate the use of retail equipment, such as espresso machines.
+- Create signs to advertise store products or events.
+
+Official O*NET Related Occupations:
+- 35-3011.00 Bartenders
+- 35-2011.00 Cooks, Fast Food
+- 35-2013.00 Cooks, Private Household
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-2021.00 Food Preparation Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-3023.01 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

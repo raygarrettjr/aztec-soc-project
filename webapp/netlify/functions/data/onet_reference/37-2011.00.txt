@@ -1,0 +1,40 @@
+SOC: 37-2011.00
+Title: Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+Description: Keep buildings in clean and orderly condition. Perform heavy cleaning duties, such as cleaning floors, shampooing rugs, washing walls and glass, and removing rubbish. Duties may include tending furnace and boiler, performing routine maintenance activities, notifying management of need for repairs, and cleaning snow or debris from sidewalk.
+
+Official O*NET Tasks:
+- Service, clean, or supply restrooms.
+- Gather and empty trash.
+- Clean building floors by sweeping, mopping, scrubbing, or vacuuming.
+- Monitor building security and safety by performing tasks such as locking doors after operating hours or checking electrical appliance use to ensure that hazards are not created.
+- Notify managers concerning the need for major repairs or additions to building operating systems.
+- Follow procedures for the use of chemical cleaners and power equipment to prevent damage to floors and fixtures.
+- Mix water and detergents or acids in containers to prepare cleaning solutions, according to specifications.
+- Clean windows, glass partitions, or mirrors, using soapy water or other cleaners, sponges, or squeegees.
+- Requisition supplies or equipment needed for cleaning and maintenance duties.
+- Dust furniture, walls, machines, or equipment.
+- Clean and polish furniture and fixtures.
+- Move heavy furniture, equipment, or supplies, either manually or with hand trucks.
+- Strip, seal, finish, and polish floors.
+- Remove snow from sidewalks, driveways, or parking areas, using snowplows, snow blowers, or snow shovels, or spread snow-melting chemicals.
+- Make adjustments or minor repairs to heating, cooling, ventilating, plumbing, or electrical systems.
+- Drive vans, industrial trucks, or other vehicles required to travel to, or to perform, cleaning work.
+- Spray insecticides or fumigants to prevent insect or rodent infestation.
+- Set up, arrange, or remove decorations, tables, chairs, ladders, or scaffolding to prepare facilities for events, such as banquets or meetings.
+- Clean chimneys, flues, and connecting pipes, using power or hand tools.
+- Mow or trim lawns or shrubbery, using mowers or hand or power trimmers, and clear debris from grounds.
+- Steam-clean or shampoo carpets.
+
+Official O*NET Related Occupations:
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 51-9192.00 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- 35-9021.00 Dishwashers
+- 47-2043.00 Floor Sanders and Finishers
+- 37-3011.00 Landscaping and Groundskeeping Workers
+- 51-6011.00 Laundry and Dry-Cleaning Workers
+- 37-2012.00 Maids and Housekeeping Cleaners
+- 49-9071.00 Maintenance and Repair Workers, General
+- 53-7062.04 Recycling and Reclamation Workers
+- 47-4071.00 Septic Tank Servicers and Sewer Pipe Cleaners
+
+Source: https://www.onetonline.org/link/summary/37-2011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

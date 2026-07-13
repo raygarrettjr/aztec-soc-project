@@ -1,0 +1,51 @@
+SOC: 35-2021.00
+Title: Food Preparation Workers
+Description: Perform a variety of food preparation duties other than cooking, such as preparing cold foods and shellfish, slicing meat, and brewing coffee or tea.
+
+Official O*NET Tasks:
+- Clean and sanitize work areas, equipment, utensils, dishes, or silverware.
+- Assist cooks and kitchen staff with various tasks as needed, and provide cooks with needed items.
+- Take and record temperature of food and food storage areas, such as refrigerators and freezers.
+- Carry food supplies, equipment, and utensils to and from storage and work areas.
+- Remove trash and clean kitchen garbage containers.
+- Store food in designated containers and storage areas to prevent spoilage.
+- Weigh or measure ingredients.
+- Vacuum dining area and sweep and mop kitchen floor.
+- Inform supervisors when equipment is not working properly and when food and supplies are getting low, and order needed items.
+- Wash, peel, and cut various foods, such as fruits and vegetables, to prepare for cooking or serving.
+- Prepare a variety of foods, such as meats, vegetables, or desserts, according to customers' orders or supervisors' instructions, following approved procedures.
+- Assemble meal trays with foods in accordance with patients' diets.
+- Stock cupboards and refrigerators, and tend salad bars and buffet meals.
+- Use manual or electric appliances to clean, peel, slice, and trim foods.
+- Load dishes, glasses, and tableware into dishwashing machines.
+- Portion and wrap food, or place it directly on plates for service to patrons.
+- Add cutlery, napkins, food, and other items to trays on assembly lines in hospitals, cafeterias, airline kitchens, and similar establishments.
+- Place food trays over food warmers for immediate service, or store them in refrigerated storage cabinets.
+- Prepare and serve a variety of beverages, such as coffee, tea, and soft drinks.
+- Mix ingredients for green salads, molded fruit salads, vegetable salads, and pasta salads.
+- Receive and store food supplies, equipment, and utensils in refrigerators, cupboards, and other storage areas.
+- Stir and strain soups and sauces.
+- Make special dressings and sauces as condiments for sandwiches.
+- Scrape leftovers from dishes into garbage containers.
+- Distribute food to waiters and waitresses to serve to customers.
+- Operate cash register, handle money, and give correct change.
+- Distribute menus to hospital patients, collect diet sheets, and deliver food trays and snacks to nursing units or directly to patients.
+- Package take-out foods or serve food to customers.
+- Cut, slice or grind meat, poultry, and seafood to prepare for cooking.
+- Butcher and clean fowl, fish, poultry, and shellfish to prepare for cooking or serving.
+- Keep records of the quantities of food used.
+- Check and log refrigerator, freezer, and cooler temperatures.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 35-3023.01 Baristas
+- 51-3021.00 Butchers and Meat Cutters
+- 35-2011.00 Cooks, Fast Food
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-3041.00 Food Servers, Nonrestaurant
+
+Source: https://www.onetonline.org/link/summary/35-2021.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

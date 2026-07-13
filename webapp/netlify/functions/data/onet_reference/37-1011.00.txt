@@ -1,0 +1,45 @@
+SOC: 37-1011.00
+Title: First-Line Supervisors of Housekeeping and Janitorial Workers
+Description: Directly supervise and coordinate work activities of cleaning personnel in hotels, hospitals, offices, and other establishments.
+
+Official O*NET Tasks:
+- Supervise in-house services, such as laundries, maintenance and repair, dry cleaning, or valet services.
+- Select the most suitable cleaning materials for different types of linens, furniture, flooring, and surfaces.
+- Advise managers, desk clerks, or admitting personnel of rooms ready for occupancy.
+- Inspect work performed to ensure that it meets specifications and established standards.
+- Perform or assist with cleaning duties as necessary.
+- Plan and prepare employee work schedules.
+- Establish and implement operational standards and procedures for the departments supervised.
+- Inspect and evaluate the physical condition of facilities to determine the type of work required.
+- Inventory stock to ensure that supplies and equipment are available in adequate amounts.
+- Issue supplies and equipment to workers.
+- Forecast necessary levels of staffing and stock at different times to facilitate effective scheduling and ordering.
+- Check and maintain equipment to ensure that it is in working order.
+- Maintain required records of work hours, budgets, payrolls, and other information.
+- Direct activities for stopping the spread of infections in facilities, such as hospitals.
+- Recommend or arrange for additional services, such as painting, repair work, renovations, and the replacement of furnishings and equipment.
+- Coordinate activities with other departments to ensure that services are provided in an efficient and timely manner.
+- Investigate complaints about service and equipment, and take corrective action.
+- Instruct staff in work policies and procedures, and the use and maintenance of equipment.
+- Select and order or purchase new equipment, supplies, or furnishings.
+- Prepare reports on activity, personnel, and information, such as occupancy, hours worked, facility usage, work performed, and departmental expenses.
+- Confer with staff to resolve performance and personnel problems, and to discuss company policies.
+- Evaluate employee performance and recommend personnel actions, such as promotions, transfers, and dismissals.
+- Recommend changes that could improve service and increase operational efficiency.
+- Perform financial tasks, such as estimating costs and preparing and managing budgets.
+- Screen job applicants, and hire new employees.
+- Perform grounds maintenance tasks, such as removing snow and mowing the lawn.
+
+Official O*NET Related Occupations:
+- 47-1011.00 First-Line Supervisors of Construction Trades and Extraction Workers
+- 39-1014.00 First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 53-1042.00 First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- 37-1012.00 First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+- 49-1011.00 First-Line Supervisors of Mechanics, Installers, and Repairers
+- 43-1011.00 First-Line Supervisors of Office and Administrative Support Workers
+- 53-1044.00 First-Line Supervisors of Passenger Attendants
+- 39-1022.00 First-Line Supervisors of Personal Service Workers
+- 51-1011.00 First-Line Supervisors of Production and Operating Workers
+
+Source: https://www.onetonline.org/link/summary/37-1011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

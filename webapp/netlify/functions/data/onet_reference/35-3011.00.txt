@@ -1,0 +1,40 @@
+SOC: 35-3011.00
+Title: Bartenders
+Description: Mix and serve drinks to patrons, directly or through waitstaff.
+
+Official O*NET Tasks:
+- Clean glasses, utensils, and bar equipment.
+- Collect money for drinks served.
+- Balance cash receipts.
+- Check identification of customers to verify age requirements for purchase of alcohol.
+- Clean bars, work areas, and tables.
+- Attempt to limit problems and liability related to customers' excessive drinking by taking steps such as persuading customers to stop drinking, or ordering taxis or other transportation for intoxicated patrons.
+- Take beverage orders from serving staff or directly from patrons.
+- Serve wine, and bottled or draft beer.
+- Plan, organize, and control the operations of a cocktail lounge or bar.
+- Stock bar with beer, wine, liquor, and related supplies such as ice, glassware, napkins, or straws.
+- Serve snacks or food items to customers seated at the bar.
+- Mix ingredients, such as liquor, soda, water, sugar, and bitters, to prepare cocktails and other drinks.
+- Slice and pit fruit for garnishing drinks.
+- Ask customers who become loud and obnoxious to leave, or physically remove them.
+- Arrange bottles and glasses to make attractive displays.
+- Create drink recipes.
+- Supervise the work of bar staff and other bartenders.
+- Order or requisition liquors and supplies.
+- Plan bar menus.
+- Prepare appetizers such as pickles, cheese, and cold meats.
+- Provide customers with directions or answers to questions.
+
+Official O*NET Related Occupations:
+- 35-3023.01 Baristas
+- 35-1011.00 Chefs and Head Cooks
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 35-2021.00 Food Preparation Workers
+- 11-9051.00 Food Service Managers
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-3011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

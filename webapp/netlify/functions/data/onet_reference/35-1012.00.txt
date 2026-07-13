@@ -1,0 +1,45 @@
+SOC: 35-1012.00
+Title: First-Line Supervisors of Food Preparation and Serving Workers
+Description: Directly supervise and coordinate activities of workers engaged in preparing and serving food.
+
+Official O*NET Tasks:
+- Resolve customer complaints regarding food service.
+- Train workers in food preparation, and in service, sanitation, and safety procedures.
+- Assign duties, responsibilities, and work stations to employees in accordance with work requirements.
+- Present bills and accept payments.
+- Perform various financial activities, such as cash handling, deposit preparation, and payroll.
+- Supervise and participate in kitchen and dining area cleaning activities.
+- Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.
+- Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.
+- Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.
+- Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.
+- Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.
+- Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.
+- Greet and seat guests, and present menus and wine lists.
+- Evaluate new products for usefulness and suitability.
+- Compile and balance cash receipts at the end of the day or shift.
+- Forecast staff, equipment, and supply requirements, based on a master menu.
+- Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.
+- Record production, operational, and personnel data on specified forms.
+- Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.
+- Estimate ingredients and supplies required to prepare a recipe.
+- Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.
+- Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.
+- Schedule parties and take reservations.
+- Develop departmental objectives, budgets, policies, procedures, and strategies.
+- Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.
+- Develop equipment maintenance schedules and arrange for repairs.
+
+Official O*NET Related Occupations:
+- 39-1014.00 First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- 45-1011.00 First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- 53-1042.00 First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- 37-1011.00 First-Line Supervisors of Housekeeping and Janitorial Workers
+- 49-1011.00 First-Line Supervisors of Mechanics, Installers, and Repairers
+- 41-1012.00 First-Line Supervisors of Non-Retail Sales Workers
+- 43-1011.00 First-Line Supervisors of Office and Administrative Support Workers
+- 53-1044.00 First-Line Supervisors of Passenger Attendants
+- 51-1011.00 First-Line Supervisors of Production and Operating Workers
+- 41-1011.00 First-Line Supervisors of Retail Sales Workers
+
+Source: https://www.onetonline.org/link/summary/35-1012.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

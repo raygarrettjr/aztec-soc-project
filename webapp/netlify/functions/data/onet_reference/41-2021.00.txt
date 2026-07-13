@@ -1,0 +1,35 @@
+SOC: 41-2021.00
+Title: Counter and Rental Clerks
+Description: Receive orders, generally in person, for repairs, rentals, and services. May describe available options, compute cost, and accept payment.
+
+Official O*NET Tasks:
+- Compute charges for merchandise or services and receive payments.
+- Receive orders for services, such as rentals, repairs, dry cleaning, and storage.
+- Explain rental fees, policies, and procedures.
+- Provide information about rental items, such as availability, operation, or description.
+- Advise customers on use and care of merchandise.
+- Greet customers and discuss the type, quality, and quantity of merchandise sought for rental.
+- Answer telephones to provide information and receive orders.
+- Inspect and adjust rental items to meet needs of customer.
+- Prepare rental forms, obtaining customer signature and other information, such as required licenses.
+- Rent items, arrange for provision of services to customers, and accept returns.
+- Keep records of transactions and of the number of customers entering an establishment.
+- Receive, examine, and tag articles to be altered, cleaned, stored, or repaired.
+- Reserve items for requested times and keep records of items rented.
+- Prepare merchandise for display or for purchase or rental.
+- Recommend and provide advice on a wide variety of products and services.
+- Allocate equipment to participants in sporting events or recreational activities.
+
+Official O*NET Related Occupations:
+- 41-2011.00 Cashiers
+- 43-4051.00 Customer Service Representatives
+- 41-9091.00 Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- 43-4151.00 Order Clerks
+- 41-2022.00 Parts Salespersons
+- 41-2031.00 Retail Salespersons
+- 41-3091.00 Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- 41-4012.00 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- 53-7065.00 Stockers and Order Fillers
+- 41-9041.00 Telemarketers
+
+Source: https://www.onetonline.org/link/summary/41-2021.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

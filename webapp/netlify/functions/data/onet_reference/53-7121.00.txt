@@ -1,0 +1,38 @@
+SOC: 53-7121.00
+Title: Tank Car, Truck, and Ship Loaders
+Description: Load and unload chemicals and bulk solids, such as coal, sand, and grain, into or from tank cars, trucks, or ships, using material moving equipment. May perform a variety of other tasks relating to shipment of products. May gauge or sample shipping tanks and test them for leaks.
+
+Official O*NET Tasks:
+- Seal outlet valves on tank cars, barges, and trucks.
+- Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.
+- Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.
+- Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.
+- Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.
+- Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.
+- Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.
+- Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.
+- Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.
+- Connect ground cables to carry off static electricity when unloading tanker cars.
+- Copy and attach load specifications to loaded tanks.
+- Remove and replace tank car dome caps, or direct other workers in their removal and replacement.
+- Test samples for specific gravity, using hydrometers, or send samples to laboratories for testing.
+- Test vessels for leaks, damage, and defects, and repair or replace defective parts as necessary.
+- Unload cars containing liquids by connecting hoses to outlet plugs and pumping compressed air into cars to force liquids into storage tanks.
+- Clean interiors of tank cars or tank trucks, using mechanical spray nozzles.
+- Lower gauge rods into tanks or read meters to verify contents, temperatures, and volumes of liquid loads.
+- Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.
+- Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.
+
+Official O*NET Related Occupations:
+- 53-7011.00 Conveyor Operators and Tenders
+- 53-7021.00 Crane and Tower Operators
+- 47-5022.00 Excavating and Loading Machine and Dragline Operators, Surface Mining
+- 53-7041.00 Hoist and Winch Operators
+- 53-7051.00 Industrial Truck and Tractor Operators
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 47-5044.00 Loading and Moving Machine Operators, Underground Mining
+- 53-7063.00 Machine Feeders and Offbearers
+- 49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines
+- 53-7072.00 Pump Operators, Except Wellhead Pumpers
+
+Source: https://www.onetonline.org/link/summary/53-7121.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

@@ -1,0 +1,32 @@
+SOC: 35-2013.00
+Title: Cooks, Private Household
+Description: Prepare meals in private homes. Includes personal chefs.
+
+Official O*NET Tasks:
+- Peel, wash, trim, and cook vegetables and meats, and bake breads and pastries.
+- Cool, package, label, and freeze foods for later consumption and provide instructions for reheating.
+- Plan menus according to employers' needs and diet restrictions.
+- Shop for or order food and kitchen supplies and equipment.
+- Prepare meals in private homes according to employers' recipes or tastes, handling all meals for the family and possibly for other household staff.
+- Keep records pertaining to menus, finances, and other business-related issues.
+- Stock, organize, and clean kitchens and cooking utensils.
+- Direct the operation and organization of kitchens and all food-related activities, including the presentation and serving of food.
+- Specialize in preparing fancy dishes or food for special diets.
+- Plan and prepare food for parties, holiday meals, luncheons, special functions, and other social events.
+- Create and explore new cuisines.
+- Serve meals and snacks to employing families and their guests.
+- Travel with employers to vacation homes to provide meal preparation at those locations.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 35-3023.01 Baristas
+- 35-1011.00 Chefs and Head Cooks
+- 35-2011.00 Cooks, Fast Food
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-3023.00 Fast Food and Counter Workers
+- 35-2021.00 Food Preparation Workers
+- 11-9051.00 Food Service Managers
+
+Source: https://www.onetonline.org/link/summary/35-2013.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

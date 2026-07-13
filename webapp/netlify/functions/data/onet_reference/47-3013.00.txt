@@ -1,0 +1,44 @@
+SOC: 47-3013.00
+Title: Helpers--Electricians
+Description: Help electricians by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+Official O*NET Tasks:
+- Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.
+- Trace out short circuits in wiring, using test meter.
+- Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.
+- Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.
+- Maintain tools, vehicles, and equipment and keep parts and supplies in order.
+- Drill holes and pull or push wiring through openings, using hand and power tools.
+- Clean work area and wash parts.
+- Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.
+- Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.
+- Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.
+- Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.
+- Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.
+- String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.
+- Install copper-clad ground rods, using a manual post driver.
+- Dig trenches or holes for installation of conduit or supports.
+- Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.
+- Bolt component parts together to form tower assemblies, using hand tools.
+- Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.
+- Trim trees and clear undergrowth along right-of-way.
+- Requisition materials, using warehouse requisition or release forms.
+- Solder electrical connections, using soldering iron.
+- Paint a variety of objects related to electrical functions.
+- Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.
+- Operate heavy equipment, such as backhoes.
+- Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.
+
+Official O*NET Related Occupations:
+- 47-2011.00 Boilermakers
+- 49-9051.00 Electrical Power-Line Installers and Repairers
+- 47-2111.00 Electricians
+- 47-3012.00 Helpers--Carpenters
+- 47-5081.00 Helpers--Extraction Workers
+- 49-9098.00 Helpers--Installation, Maintenance, and Repair Workers
+- 47-3014.00 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- 47-3015.00 Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- 27-4015.00 Lighting Technicians
+- 49-9044.00 Millwrights
+
+Source: https://www.onetonline.org/link/summary/47-3013.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

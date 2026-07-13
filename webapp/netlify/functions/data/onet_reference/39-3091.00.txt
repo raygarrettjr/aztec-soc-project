@@ -1,0 +1,36 @@
+SOC: 39-3091.00
+Title: Amusement and Recreation Attendants
+Description: Perform a variety of attending duties at amusement or recreation facility. May schedule use of recreation facilities, maintain and provide equipment to participants of sporting events or recreational pursuits, or operate amusement concessions and rides.
+
+Official O*NET Tasks:
+- Sell tickets and collect fees from customers.
+- Provide information about facilities, entertainment options, and rules and regulations.
+- Keep informed of shut-down and emergency evacuation procedures.
+- Direct patrons to rides, seats, or attractions.
+- Monitor activities to ensure adherence to rules and safety procedures, or arrange for the removal of unruly patrons.
+- Record details of attendance, sales, receipts, reservations, or repair activities.
+- Maintain inventories of equipment, storing and retrieving items and assembling and disassembling equipment as necessary.
+- Provide assistance to patrons entering or exiting amusement rides, boats, or ski lifts, or mounting or dismounting animals.
+- Clean sporting equipment, vehicles, rides, booths, facilities, or grounds.
+- Inspect equipment to detect wear and damage and perform minor repairs, adjustments, or maintenance tasks, such as oiling parts.
+- Verify, collect, or punch tickets before admitting patrons to venues, such as amusement parks and rides.
+- Fasten safety devices for patrons, or provide them with directions for fastening devices.
+- Announce or describe amusement park attractions to patrons to entice customers to games and other entertainment.
+- Schedule the use of recreation facilities, such as golf courses, tennis courts, bowling alleys, or softball diamonds.
+- Sell and serve refreshments to customers.
+- Rent, sell, or issue sporting equipment and supplies, such as bowling shoes, golf balls, swimming suits, or beach chairs.
+- Operate, drive, or explain the use of mechanical riding devices or other automatic equipment in amusement parks, carnivals, or recreation areas.
+
+Official O*NET Related Occupations:
+- 39-6011.00 Baggage Porters and Bellhops
+- 41-2021.00 Counter and Rental Clerks
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 43-5032.00 Dispatchers, Except Police, Fire, and Ambulance
+- 39-1013.00 First-Line Supervisors of Gambling Services Workers
+- 53-7062.00 Laborers and Freight, Stock, and Material Movers, Hand
+- 39-3093.00 Locker Room, Coatroom, and Dressing Room Attendants
+- 53-6021.00 Parking Attendants
+- 53-6061.00 Passenger Attendants
+- 39-3031.00 Ushers, Lobby Attendants, and Ticket Takers
+
+Source: https://www.onetonline.org/link/summary/39-3091.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

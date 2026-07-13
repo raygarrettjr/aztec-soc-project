@@ -1,0 +1,32 @@
+SOC: 37-3012.00
+Title: Pesticide Handlers, Sprayers, and Applicators, Vegetation
+Description: Mix or apply pesticides, herbicides, fungicides, or insecticides through sprays, dusts, vapors, soil incorporation, or chemical application on trees, shrubs, lawns, or crops. Usually requires specific training and state or federal certification.
+
+Official O*NET Tasks:
+- Mix pesticides, herbicides, or fungicides for application to trees, shrubs, lawns, or botanical crops.
+- Fill sprayer tanks with water and chemicals, according to formulas.
+- Lift, push, and swing nozzles, hoses, and tubes to direct spray over designated areas.
+- Identify lawn or plant diseases to determine the appropriate course of treatment.
+- Cover areas to specified depths with pesticides, applying knowledge of weather conditions, droplet sizes, elevation-to-distance ratios, and obstructions.
+- Start motors and engage machinery, such as sprayer agitators or pumps or portable spray equipment.
+- Connect hoses and nozzles selected according to terrain, distribution pattern requirements, types of infestations, and velocities.
+- Clean or service machinery to ensure operating efficiency, using water, gasoline, lubricants, or hand tools.
+- Provide driving instructions to truck drivers to ensure complete coverage of designated areas, using hand and horn signals.
+- Plant grass with seed spreaders, and operate straw blowers to cover seeded areas with mixtures of asphalt and straw.
+- Establish driving routes for pesticide applications.
+- Record information about pesticide applications, such as the type used and amount applied.
+- Use new technology and equipment, such as drones or GPS systems, to apply pesticides more accurately and efficiently.
+
+Official O*NET Related Occupations:
+- 45-2091.00 Agricultural Equipment Operators
+- 51-8091.00 Chemical Plant and System Operators
+- 53-7061.00 Cleaners of Vehicles and Equipment
+- 51-9124.00 Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- 45-2092.00 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- 37-3011.00 Landscaping and Groundskeeping Workers
+- 37-2021.00 Pest Control Workers
+- 47-4071.00 Septic Tank Servicers and Sewer Pipe Cleaners
+- 37-3013.00 Tree Trimmers and Pruners
+- 51-8031.00 Water and Wastewater Treatment Plant and System Operators
+
+Source: https://www.onetonline.org/link/summary/37-3012.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

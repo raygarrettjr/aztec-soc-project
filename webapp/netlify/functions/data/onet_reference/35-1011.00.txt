@@ -1,0 +1,40 @@
+SOC: 35-1011.00
+Title: Chefs and Head Cooks
+Description: Direct and may participate in the preparation, seasoning, and cooking of salads, soups, fish, meats, vegetables, desserts, or other foods. May plan and price menu items, order supplies, and keep records and accounts.
+
+Official O*NET Tasks:
+- Monitor sanitation practices to ensure that employees follow standards and regulations.
+- Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food.
+- Supervise or coordinate activities of cooks or workers engaged in food preparation.
+- Order or requisition food or other supplies needed to ensure efficient operation.
+- Inspect supplies, equipment, or work areas to ensure conformance to established standards.
+- Check the quantity and quality of received products.
+- Check the quality of raw or cooked food products to ensure that standards are met.
+- Estimate amounts and costs of required supplies, such as food and ingredients.
+- Coordinate planning, budgeting, or purchasing for all the food operations within establishments such as clubs, hotels, or restaurant chains.
+- Analyze recipes to assign prices to menu items, based on food, labor, and overhead costs.
+- Plan, direct, or supervise food preparation or cooking activities of multiple kitchens or restaurants in an establishment such as a restaurant chain, hospital, or hotel.
+- Determine how food should be presented and create decorative food displays.
+- Prepare and cook foods of all types, either on a regular basis or for special guests or functions.
+- Determine production schedules and staff requirements necessary to ensure timely delivery of services.
+- Meet with customers to discuss menus for special occasions, such as weddings, parties, or banquets.
+- Recruit and hire staff, such as cooks and other kitchen workers.
+- Record production or operational data on specified forms.
+- Meet with sales representatives to negotiate prices or order supplies.
+- Arrange for equipment purchases or repairs.
+- Demonstrate new cooking techniques or equipment to staff.
+- Collaborate with other personnel to plan and develop recipes or menus, taking into account such factors as seasonal availability of ingredients or the likely number of customers.
+
+Official O*NET Related Occupations:
+- 51-3011.00 Bakers
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2013.00 Cooks, Private Household
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 29-2051.00 Dietetic Technicians
+- 35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers
+- 51-3092.00 Food Batchmakers
+- 11-9051.00 Food Service Managers
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-1011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

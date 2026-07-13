@@ -1,0 +1,37 @@
+SOC: 51-3011.00
+Title: Bakers
+Description: Mix and bake ingredients to produce breads, rolls, cookies, cakes, pies, pastries, or other baked goods.
+
+Official O*NET Tasks:
+- Check products for quality, and identify damaged or expired goods.
+- Set oven temperatures, and place items into hot ovens for baking.
+- Combine measured ingredients in bowls of mixing, blending, or cooking machinery.
+- Place dough in pans, molds, or on sheets, and bake in production ovens or on grills.
+- Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions.
+- Measure or weigh flour or other ingredients to prepare batters, doughs, fillings, or icings, using scales or graduated containers.
+- Observe color of products being baked, and adjust oven temperatures, humidity, or conveyor speeds accordingly.
+- Check the quality of raw materials to ensure that standards and specifications are met.
+- Check equipment to ensure that it meets health and safety regulations, and perform maintenance or cleaning, as necessary.
+- Adapt the quantity of ingredients to match the amount of items to be baked.
+- Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes.
+- Decorate baked goods, such as cakes or pastries.
+- Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products.
+- Direct or coordinate bakery deliveries.
+- Order or receive supplies or equipment.
+- Prepare or maintain inventory or production records.
+- Operate slicing or wrapping machines.
+- Develop new recipes for baked goods.
+
+Official O*NET Related Occupations:
+- 51-3021.00 Butchers and Meat Cutters
+- 35-1011.00 Chefs and Head Cooks
+- 35-2011.00 Cooks, Fast Food
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 51-3091.00 Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- 51-3092.00 Food Batchmakers
+- 51-3093.00 Food Cooking Machine Operators and Tenders
+- 35-2021.00 Food Preparation Workers
+
+Source: https://www.onetonline.org/link/summary/51-3011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

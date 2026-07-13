@@ -1,0 +1,37 @@
+SOC: 45-4011.00
+Title: Forest and Conservation Workers
+Description: Under supervision, perform manual labor necessary to develop, maintain, or protect areas such as forests, forested areas, woodlands, wetlands, and rangelands through such activities as raising and transporting seedlings; combating insects, pests, and diseases harmful to plant life; and building structures to control water, erosion, and leaching of soil. Includes forester aides, seedling pullers, tree planters, and gatherers of nontimber forestry products such as pine straw.
+
+Official O*NET Tasks:
+- Check equipment to ensure that it is operating properly.
+- Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.
+- Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.
+- Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.
+- Maintain tallies of trees examined and counted during tree marking or measuring efforts.
+- Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.
+- Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.
+- Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.
+- Thin or space trees, using power thinning saws.
+- Identify diseased or undesirable trees and remove them, using power saws or hand saws.
+- Select or cut trees according to markings or sizes, types, or grades.
+- Prune or shear tree tops or limbs to control growth, increase density, or improve shape.
+- Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.
+- Erect signs or fences, using posthole diggers, shovels, or other hand tools.
+- Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.
+- Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.
+- Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.
+- Create field maps using geographic information systems technology.
+
+Official O*NET Related Occupations:
+- 19-4012.00 Agricultural Technicians
+- 19-1031.00 Conservation Scientists
+- 45-2092.00 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- 37-1012.00 First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+- 19-4071.00 Forest and Conservation Technicians
+- 33-2022.00 Forest Fire Inspectors and Prevention Specialists
+- 19-1032.00 Foresters
+- 37-3012.00 Pesticide Handlers, Sprayers, and Applicators, Vegetation
+- 19-1031.02 Range Managers
+- 37-3013.00 Tree Trimmers and Pruners
+
+Source: https://www.onetonline.org/link/summary/45-4011.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

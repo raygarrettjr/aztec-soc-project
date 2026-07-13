@@ -1,0 +1,33 @@
+SOC: 35-3041.00
+Title: Food Servers, Nonrestaurant
+Description: Serve food to individuals outside of a restaurant environment, such as in hotel rooms, hospital rooms, residential care facilities, or cars.
+
+Official O*NET Tasks:
+- Place food servings on plates or trays according to orders or instructions.
+- Clean or sterilize dishes, kitchen utensils, equipment, or facilities.
+- Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed.
+- Examine trays to ensure that they contain required items.
+- Load trays with accessories, such as eating utensils, napkins, or condiments.
+- Take food orders and relay orders to kitchens or serving counters so they can be filled.
+- Monitor food preparation or serving techniques to ensure that proper procedures are followed.
+- Remove trays and stack dishes for return to kitchen after meals are finished.
+- Carry food, silverware, or linen on trays or use carts to carry trays.
+- Record amounts and types of special food items served to customers.
+- Stock service stations with items, such as ice, napkins, or straws.
+- Prepare food items, such as sandwiches, salads, soups, or beverages.
+- Determine where patients or patrons would like to eat their meals and help them get situated.
+- Total checks, present them to customers, and accept payment for services.
+
+Official O*NET Related Occupations:
+- 35-2012.00 Cooks, Institution and Cafeteria
+- 35-2014.00 Cooks, Restaurant
+- 35-2015.00 Cooks, Short Order
+- 35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers
+- 35-9021.00 Dishwashers
+- 35-3023.00 Fast Food and Counter Workers
+- 35-2021.00 Food Preparation Workers
+- 11-9051.00 Food Service Managers
+- 35-9031.00 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- 35-3031.00 Waiters and Waitresses
+
+Source: https://www.onetonline.org/link/summary/35-3041.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)

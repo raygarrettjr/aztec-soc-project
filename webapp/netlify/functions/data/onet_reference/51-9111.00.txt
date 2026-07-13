@@ -1,0 +1,39 @@
+SOC: 51-9111.00
+Title: Packaging and Filling Machine Operators and Tenders
+Description: Operate or tend machines to prepare industrial or consumer products for storage or shipment. Includes cannery workers who pack food products.
+
+Official O*NET Tasks:
+- Attach identification labels to finished packaged items, or cut stencils and stencil information on containers, such as lot numbers or shipping destinations.
+- Sort, grade, weigh, and inspect products, verifying and adjusting product weight or measurement to meet specifications.
+- Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.
+- Observe machine operations to ensure quality and conformity of filled or packaged products to standards.
+- Remove finished packaged items from machine and separate rejected items.
+- Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.
+- Inspect and remove defective products and packaging material.
+- Start machine by engaging controls.
+- Tend or operate machine that packages product.
+- Clean, oil, and make minor adjustments or repairs to machinery and equipment, such as opening valves or setting guides.
+- Regulate machine flow, speed, or temperature.
+- Adjust machine components and machine tension and pressure according to size or processing angle of product.
+- Supply materials to spindles, conveyors, hoppers, or other feeding devices and unload packaged product.
+- Stack finished packaged items, or wrap protective material around each item, and pack the items in cartons or containers.
+- Package the product in the form in which it will be sent out, for example, filling bags with flour from a chute or spout.
+- Stock and sort product for packaging or filling machine operation, and replenish packaging supplies, such as wrapping paper, plastic sheet, boxes, cartons, glue, ink, or labels.
+- Count and record finished and rejected packaged items.
+- Clean packaging containers, line and pad crates, or assemble cartons to prepare for product packing.
+- Secure finished packaged items by hand tying, sewing, gluing, stapling, or attaching fastener.
+- Clean and remove damaged or otherwise inferior materials to prepare raw products for processing.
+
+Official O*NET Related Occupations:
+- 51-9191.00 Adhesive Bonding Machine Operators and Tenders
+- 51-9021.00 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- 51-9032.00 Cutting and Slicing Machine Setters, Operators, and Tenders
+- 51-6091.00 Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- 51-9041.00 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- 53-7063.00 Machine Feeders and Offbearers
+- 51-9023.00 Mixing and Blending Machine Setters, Operators, and Tenders
+- 53-7064.00 Packers and Packagers, Hand
+- 51-9196.00 Paper Goods Machine Setters, Operators, and Tenders
+- 51-9012.00 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+
+Source: https://www.onetonline.org/link/summary/51-9111.00 (O*NET OnLine, US Dept of Labor/ETA, CC BY 4.0)
