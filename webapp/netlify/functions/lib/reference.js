@@ -1,7 +1,26 @@
 const fs = require("fs");
 const path = require("path");
 
-const DATA_DIR = path.join(__dirname, "..", "data");
+// Netlify's esbuild function bundler inlines lib/reference.js into the same
+// compiled file as the function entry point, which shifts __dirname by one
+// level compared to running this file directly (unbundled). Try a few
+// candidate locations so this keeps working whether or not bundling changes
+// that behavior in the future.
+function resolveDataDir() {
+  const candidates = [
+    path.join(__dirname, "data"),
+    path.join(__dirname, "..", "data"),
+    path.join(__dirname, "..", "..", "data"),
+  ];
+  for (const c of candidates) {
+    if (fs.existsSync(path.join(c, "target_socs.json"))) return c;
+  }
+  // Fall back to the most common unbundled case; will surface a clear ENOENT
+  // pointing at this exact path if none of the candidates matched.
+  return candidates[1];
+}
+
+const DATA_DIR = resolveDataDir();
 const ONET_DIR = path.join(DATA_DIR, "onet_reference");
 
 function loadOnetFile(socCode) {
