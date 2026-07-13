@@ -8,23 +8,28 @@ const {
   loadTargetSocs,
 } = require("./lib/reference");
 
-const SAMPLE_SIZE = Number(process.env.DUTY_SAMPLE_SIZE || 300);
-const RFI_SAMPLE_SIZE = Number(process.env.RFI_SAMPLE_SIZE || 12);
+// Vercel's Hobby tier gives serverless functions a 30-second default timeout
+// (and up to 300 seconds with Fluid Compute), well beyond Netlify's 10-second
+// ceiling, so these can be more generous than the Netlify version was forced
+// to be. Still kept configurable in case real-world latency needs tuning.
+const SAMPLE_SIZE = Number(process.env.DUTY_SAMPLE_SIZE || 200);
+const RFI_SAMPLE_SIZE = Number(process.env.RFI_SAMPLE_SIZE || 10);
+const MAX_DUTY_TEXT_CHARS = Number(process.env.MAX_DUTY_TEXT_CHARS || 400);
 const MODEL = process.env.ANTHROPIC_MODEL || "claude-sonnet-5";
 
-exports.handler = async (event) => {
+module.exports = async (req, res) => {
   try {
-    if (event.httpMethod !== "POST") {
-      return { statusCode: 405, body: JSON.stringify({ error: "Use POST." }) };
+    if (req.method !== "POST") {
+      return res.status(405).json({ error: "Use POST." });
     }
-    const body = JSON.parse(event.body || "{}");
+    const body = typeof req.body === "string" ? JSON.parse(req.body || "{}") : (req.body || {});
     const soc = body.soc;
     const naicsCodes = Array.isArray(body.naicsCodes) && body.naicsCodes.length ? body.naicsCodes : null;
 
     const targetSocs = loadTargetSocs();
     const socEntry = targetSocs.find((s) => s.soc_code === soc);
     if (!socEntry) {
-      return { statusCode: 400, body: JSON.stringify({ error: "Unknown or missing SOC code." }) };
+      return res.status(400).json({ error: "Unknown or missing SOC code." });
     }
 
     const pool = getPool();
@@ -97,9 +102,11 @@ exports.handler = async (event) => {
     parts.push(`Filings with usable job duties text: ${usableDuties} (${totalFilings ? ((usableDuties / totalFilings) * 100).toFixed(1) : "0.0"}%)`);
     parts.push(`Average wage_from for this SOC scope: ${wageQ.rows[0].avg_wage || "not available"} (based on ${wageQ.rows[0].n} filings with wage data)`);
 
+    const truncate = (s, n) => (s && s.length > n ? s.slice(0, n) + "..." : s);
+
     parts.push(`\n--- Sample of ${sampleQ.rows.length} real job_duties entries for this SOC${naicsTitle ? "/NAICS scope" : ""} (use this to estimate duty and tool phrase frequency) ---`);
     sampleQ.rows.forEach((r, i) => {
-      parts.push(`[${i + 1}] (case ${r.case_number}): ${r.job_duties}`);
+      parts.push(`[${i + 1}] (case ${r.case_number}): ${truncate(r.job_duties, MAX_DUTY_TEXT_CHARS)}`);
     });
 
     parts.push(`\n--- RFI-flagged snippets found for this SOC${naicsTitle ? "/NAICS scope" : ""} (${rfiQ.rows.length} found) ---`);
@@ -107,7 +114,7 @@ exports.handler = async (event) => {
       parts.push("None found in the current data for this SOC/NAICS scope.");
     } else {
       rfiQ.rows.forEach((r, i) => {
-        parts.push(`[RFI ${i + 1}] (case ${r.case_number}): ${r.job_duties}`);
+        parts.push(`[RFI ${i + 1}] (case ${r.case_number}): ${truncate(r.job_duties, MAX_DUTY_TEXT_CHARS * 2)}`);
       });
     }
 
@@ -144,24 +151,20 @@ exports.handler = async (event) => {
 
     const apiKey = process.env.ANTHROPIC_API_KEY;
     if (!apiKey) {
-      return { statusCode: 500, body: JSON.stringify({ error: "ANTHROPIC_API_KEY is not set in this environment's variables." }) };
+      return res.status(500).json({ error: "ANTHROPIC_API_KEY is not set in this environment's variables." });
     }
     const client = new Anthropic({ apiKey });
     const msg = await client.messages.create({
       model: MODEL,
-      max_tokens: 4000,
+      max_tokens: Number(process.env.MAX_OUTPUT_TOKENS || 3200),
       system: SYSTEM_PROMPT,
       messages: [{ role: "user", content: userMessage }],
     });
 
     const outputText = msg.content.map((c) => (c.type === "text" ? c.text : "")).join("");
 
-    return {
-      statusCode: 200,
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ output: outputText }),
-    };
+    return res.status(200).json({ output: outputText });
   } catch (err) {
-    return { statusCode: 500, body: JSON.stringify({ error: String(err.message || err) }) };
+    return res.status(500).json({ error: String(err.message || err) });
   }
 };

@@ -172,7 +172,7 @@ socSelect.addEventListener('change', async () => {
 
   naicsSelect.innerHTML = '<option value="">Loading industry options...</option>';
   try {
-    const res = await fetch(`/.netlify/functions/naics-options?soc=${encodeURIComponent(soc)}`);
+    const res = await fetch(`/api/naics-options?soc=${encodeURIComponent(soc)}`);
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || 'Failed to load industry options.');
 
@@ -211,7 +211,7 @@ generateBtn.addEventListener('click', async () => {
   statusEl.textContent = 'Pulling live filing data and generating suggestion... this can take 20-40 seconds.';
 
   try {
-    const res = await fetch('/.netlify/functions/generate-duties', {
+    const res = await fetch('/api/generate-duties', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ soc, naicsCodes }),

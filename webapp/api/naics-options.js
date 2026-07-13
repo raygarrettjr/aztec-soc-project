@@ -1,12 +1,12 @@
 const { getPool } = require("./lib/db");
 const { resolveNaicsTitle, loadTargetSocs } = require("./lib/reference");
 
-exports.handler = async (event) => {
+module.exports = async (req, res) => {
   try {
-    const soc = (event.queryStringParameters && event.queryStringParameters.soc) || "";
+    const soc = (req.query && req.query.soc) || "";
     const targetSocs = loadTargetSocs();
     if (!targetSocs.some((s) => s.soc_code === soc)) {
-      return { statusCode: 400, body: JSON.stringify({ error: "Unknown or missing SOC code." }) };
+      return res.status(400).json({ error: "Unknown or missing SOC code." });
     }
 
     const pool = getPool();
@@ -39,12 +39,8 @@ exports.handler = async (event) => {
 
     const options = Array.from(byTitle.values()).sort((a, b) => b.count - a.count);
 
-    return {
-      statusCode: 200,
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ options, unresolved }),
-    };
+    return res.status(200).json({ options, unresolved });
   } catch (err) {
-    return { statusCode: 500, body: JSON.stringify({ error: String(err.message || err) }) };
+    return res.status(500).json({ error: String(err.message || err) });
   }
 };

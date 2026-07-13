@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/generate-duties.js": {
+      "maxDuration": 60,
+      "includeFiles": "api/data/**"
+    },
+    "api/naics-options.js": {
+      "maxDuration": 15,
+      "includeFiles": "api/data/**"
+    }
+  }
+}
